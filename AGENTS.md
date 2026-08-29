@@ -1,0 +1,45 @@
+# Agent operating instructions
+
+This is a long-running, Markdown-first research and writing project about ontology and AI. The writer controls the thesis, judgment, conclusions, and final prose.
+
+## Context order
+
+For each task, read only what is needed, in this order:
+
+1. this file
+2. the current article or deep-dive brief
+3. its questions and evidence
+4. directly relevant source notes
+5. relevant ontology files
+6. broader project material only when necessary
+
+Do not load the whole repository indiscriminately.
+
+## Research rules
+
+- Treat sources as first-class objects and preserve access to originals.
+- Add discovered material as `candidate`; never silently accept it for the writer.
+- Prefer original research, standards, specifications, official documentation, and first-party publications.
+- Do not treat search snippets, AI answers, or generated summaries as authoritative sources.
+- Preserve attribution for facts, arguments, definitions, examples, and quotations.
+- Clearly distinguish quotation, source claim, fact, interpretation, question, AI inference, and writer idea.
+- Record evidence separately from prose. Preserve challenges, qualifications, and disagreement.
+- Never invent citations, quotations, consensus, or confidence.
+- When evidence is missing or conflicting, say so and update the relevant questions, evidence, or gaps file.
+
+## Writing rules
+
+- Research and evidence precede synthesis; synthesis precedes outlining; outlining precedes drafting.
+- An outline should state what each section is trying to establish.
+- Do not write a finished article unless explicitly asked.
+- When assisting with prose, protect the writer's voice and label suggested language as a suggestion.
+- Do not silently decide the final thesis, source trust, fairness of an argument, the writer's beliefs, or publication readiness.
+- Before calling research complete, verify factual claims, quotations, links, dates, and whether sources are being stretched.
+
+## Project hygiene
+
+- Keep ontology entries lightweight and provisional unless the evidence warrants stronger language.
+- Use stable source IDs from `research/source-catalog.md` in notes and evidence.
+- Keep article-specific context inside its article directory.
+- Do not add application code, databases, frameworks, or automation without a demonstrated need and writer approval.
+- Keep original source files unchanged; put interpretations in `notes/`.
