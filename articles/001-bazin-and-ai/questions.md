@@ -16,6 +16,9 @@
 | AQ-010 | What can museum objects reveal about mediation, copying, workshops, tools, authorship, and provenance before AI? | Prevents AI from appearing as the first challenge to originality or singular authorship. | Direct observation plus museum labels/catalog records; historical research after the visit | open | Use `field-notes.md`; treat observations as questions until label/catalog facts are verified. |
 | AQ-011 | What does the source YouTube video claim, and which claims survive verification? | The initial evidence file reportedly centers a video not present in the workspace. | Stable URL, captions/transcript, timestamps, cited sources, independent verification | blocked | Add the URL to `video-transcript.md`; retrieve captions and verify each material claim. |
 | AQ-012 | Where does the analogy between Bazin and computational ontology fail? | Acknowledging category differences may become the essay's most important clarification. | Philosophical and technical definitions plus explicit comparison | open | Create a “same word / different work” table before synthesis. |
+| AQ-013 | What does LeCun actually claim about generated video, physical understanding, and world models? | Prevents turning an architectural argument into a blanket judgment about AI movies. | SRC-021 through SRC-025 with paper sections and verified interview timestamps | researching | Complete `deep-dives/006-video-generation-world-models/`, beginning with SRC-024. |
+| AQ-014 | Do present video generators maintain objects, causes, and consequences well enough for extended cinematic continuity? | Tests the draft's *Bicycle Thieves* question against current systems rather than remembered demos. | SRC-026 through SRC-030 plus independent current benchmarks | researching | Separate short clips, edited workflows, scene extension, and autonomous long-form generation. |
+| AQ-015 | Is Bazin's realism usefully compared with a technical world model, or does the analogy reduce realism to physics? | Marks the central conceptual risk in the new line of argument. | Bazin's “Bicycle Thieves” essay, LeCun sources, and a counterexample using physically impossible cinema | open | Verify the Bazin passage, then write one paragraph for the analogy and one for its limit. |
 
 ## Candidate reading path
 
@@ -28,6 +31,7 @@ The reusable work is organized in:
 - `deep-dives/003-auteur-authorship-collaboration/`
 - `deep-dives/004-synthetic-image-provenance/`
 - `deep-dives/005-criticism-museum-encounter/`
+- `deep-dives/006-video-generation-world-models/`
 
 Complete the findings there first, then copy only article-relevant evidence into this article.
 

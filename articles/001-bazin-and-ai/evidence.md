@@ -36,6 +36,14 @@ The writer's initial note is preserved here as a distinct record rather than sil
 - **Candidate support:** SRC-002, SRC-005, SRC-011.
 - **Status:** needs precise sourced wording.
 
+### FC-004 — *Bicycle Thieves* quotation order
+
+- **Draft wording:** “Nothing happens in *Ladri de Biciclette* that might not just as well have happened.”
+- **Hugh Gray translation:** “Nothing happens in *Ladri di biciclette* that might just as well not have happened.”
+- **Candidate support:** SRC-031, “De Sica: Metteur en scène,” p. 68 in the 2005 University of California Press edition.
+- **Why it matters:** Reversing “just as well not” to “not just as well” obscures Bazin's claim that each event retains the fortuitous character of chance.
+- **Status:** correction required; verify against the edition used before revising the writer's draft.
+
 ## CLM-001 — “Ontology” performs different work in three domains
 
 **PROSPECTIVE CLAIM**  
@@ -245,3 +253,82 @@ May be narrowed to a normative proposal rather than a general empirical descript
 - At least two examples of Bazin's applied criticism.
 - One specific generative model and one traceable work.
 - Evidence concerning provenance and audience trust.
+
+## CLM-009 — Plausible moving images do not by themselves establish a causal world model
+
+**PROSPECTIVE CLAIM**
+LeCun's research distinguishes a system that renders plausible future pixels from one that predicts useful abstract state transitions for reasoning and planning.
+
+**CLAIM TYPE**
+technical interpretation
+
+**SUPPORT**
+- SRC-021 — architectural position paper.
+- SRC-022 and SRC-023 — V-JEPA implementations and evaluations.
+- SRC-024 — direct recent explanation, especially pp. 48–51.
+- SRC-025 — direct interview example; quotations require audio verification.
+
+**CHALLENGES**
+- SRC-026 and SRC-030 advance the competing claim that scaled video generation can develop simulation capabilities.
+- A generator may contain useful implicit regularities without satisfying LeCun's preferred test for understanding or planning.
+
+**WARRANT**
+Rendering samples from a learned distribution and using an action-conditioned state model for prediction are different tasks with different evaluations.
+
+**SCOPE / QUALIFICATION**
+Do not paraphrase LeCun as saying that AI cannot make videos or art.
+
+**STATUS**
+`needs-reading`
+
+## CLM-010 — Current video systems reveal a gap between surface realism and temporal consequence
+
+**PROSPECTIVE CLAIM**
+Modern video generators have improved rapidly in visual quality, control, synchronized audio, and apparent physics, while independent evaluations still find failures in physical commonsense and state continuity.
+
+**CLAIM TYPE**
+time-sensitive empirical claim
+
+**SUPPORT**
+- SRC-026 — first Sora technical report and its documented limitations.
+- SRC-027 and SRC-028 — independent 2025 benchmarks.
+- SRC-029 and SRC-030 — later first-party capability claims; treat as vendor evidence.
+
+**CHALLENGES**
+- Model versions and products change quickly.
+- Benchmark physics is not equivalent to cinematic realism.
+- Human-directed editing can produce a coherent film from imperfect generated clips.
+
+**WARRANT**
+The contrast appears across both vendor disclosures and independent human-evaluated research, but must be dated and scoped to evaluated systems.
+
+**SCOPE / QUALIFICATION**
+Say “the evaluated systems” and distinguish short-clip generation from feature-length autonomy.
+
+**STATUS**
+`needs-method-reading`
+
+## CLM-011 — The *Bicycle Thieves* connection concerns ordinary contingency
+
+**PROSPECTIVE CLAIM**
+The most useful bridge between Bazin and LeCun may be the difference between a sequence that looks real and a represented world whose ordinary events retain stable causes, consequences, and room for contingency.
+
+**CLAIM TYPE**
+AI inference for writer evaluation
+
+**SUPPORT**
+- SRC-031 — “Bicycle Thief” and “De Sica: Metteur en scène”; locator and quotation verification required.
+- SRC-024, SRC-026, SRC-027, and SRC-028.
+
+**CHALLENGES**
+- Bazin's realism exceeds physical consistency and includes form, spectatorship, social reality, and ambiguity.
+- *Bicycle Thieves* is rigorously constructed; apparent happenstance is an aesthetic achievement, not raw reality entering without an auteur.
+
+**WARRANT**
+Both inquiries resist confusing a convincing surface with the structure that makes events intelligible, but they ask different questions.
+
+**SCOPE / QUALIFICATION**
+Present this as a critical analogy whose failure is part of the argument, not as an identity between a world model and Bazinian ontology.
+
+**STATUS**
+`hypothesis`

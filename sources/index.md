@@ -35,11 +35,23 @@ For curated reading sequences and quick links, see `reference-decks.md`.
 | SRC-018 | RISD Museum “What's On View” | `topic/art` `topic/museum` `topic/fieldwork` `role/primary` `form/museum-record` `access/changing` | [001-bazin-and-ai](../articles/001-Bazin-and-ai/README.md) | candidate | external only | Recheck on visit day; preserve object records individually |
 | SRC-019 | U.S. Copyright Office AI Report, Part 2 | `topic/ai` `topic/authorship` `topic/law` `role/primary` `form/report` `access/open` | [001-bazin-and-ai](../articles/001-Bazin-and-ai/README.md) | candidate | external only | Preserve official report if legal boundary enters scope |
 | SRC-020 | Film & Media Studies Bazin video | `topic/film` `topic/ontology` `topic/indexicality` `role/orientation` `form/video` `access/open` | [001-bazin-and-ai](../articles/001-Bazin-and-ai/README.md) | candidate | source record; transcript pending | [Source record](web/SRC-020-bazin-video/README.md) |
+| SRC-021 | LeCun, *A Path Towards Autonomous Machine Intelligence* | `topic/ai` `topic/world-models` `topic/representation` `role/primary` `form/paper` `access/open` | [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md) | candidate | external only | Read architecture and JEPA sections; freeze version |
+| SRC-022 | Bardes et al., V-JEPA | `topic/ai` `topic/video` `topic/world-models` `role/primary` `form/paper` `access/open` | [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md) | candidate | external only | Build demonstrated/not-demonstrated table |
+| SRC-023 | Assran et al., V-JEPA 2 | `topic/ai` `topic/video` `topic/world-models` `topic/physics` `role/primary` `form/paper` `access/open` | [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md) | candidate | external only | Separate pretrained and action-conditioned results |
+| SRC-024 | LeCun and Manyika, “Learning Abstractions” | `topic/ai` `topic/video-generation` `topic/world-models` `role/primary` `form/interview` `access/open` | [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md) | candidate | external only | Read printed pp. 47–51 first |
+| SRC-025 | Big Technology interview with LeCun | `topic/ai` `topic/video-generation` `topic/physics` `role/primary` `form/video` `form/interview` `access/open` | [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md) | candidate | source record; transcript pending | [Source record](web/SRC-025-lecun-video/README.md) |
+| SRC-026 | OpenAI, Sora world-simulator report | `topic/ai` `topic/video-generation` `topic/world-models` `role/counterargument` `form/report` `access/open` | [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md) | candidate | external only | Read method and discussion together |
+| SRC-027 | VideoPhy-2 | `topic/ai` `topic/video-generation` `topic/physics` `role/benchmark` `form/paper` `access/open` | [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md) | candidate | external only | Inspect hard-subset method before using 22% result |
+| SRC-028 | PhyGenBench | `topic/ai` `topic/video-generation` `topic/world-models` `topic/physics` `role/benchmark` `form/paper` `access/open` | [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md) | candidate | external only | Inspect evaluator and model-version details |
+| SRC-029 | Google DeepMind, Veo 3.1 | `topic/ai` `topic/video-generation` `topic/physics` `role/case-study` `form/report` `access/changing` | [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md) | candidate | external only | Freeze page/version; read model card and technical report |
+| SRC-030 | OpenAI, Sora 2 launch report | `topic/ai` `topic/video-generation` `topic/world-models` `role/case-study` `role/counterargument` `form/report` `access/changing` | [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md) | candidate | external only | Preserve 2026 product-status notice if cited |
+| SRC-031 | Bazin, *What Is Cinema?*, vol. 2 | `topic/film` `topic/realism` `topic/criticism` `topic/auteur` `role/primary` `form/book` `access/library` | [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md) | candidate | external only | Read “Bicycle Thief” and “De Sica: Metteur en scène”; verify p. 68 quote |
 
 ## Intake queue
 
 - [ ] Writer reviews and accepts the minimum corpus for article 001.
 - [ ] Preserve open originals only after acceptance and edition/version checking.
 - [ ] Obtain the SRC-020 transcript or captions and document provenance.
+- [ ] Verify SRC-025 interview wording and YouTube caption provenance.
 - [ ] Create literature notes for accepted sources.
 - [ ] Update this inventory whenever a source gains a local original, snapshot, or verified transcript.

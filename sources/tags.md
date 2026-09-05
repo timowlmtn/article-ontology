@@ -17,13 +17,13 @@ Use hyphens inside multiword tags: `topic/knowledge-representation`.
 
 ## Current topic tags
 
-`topic/ai` · `topic/art` · `topic/auteur` · `topic/authenticity` · `topic/authorship` · `topic/criticism` · `topic/digital-media` · `topic/fieldwork` · `topic/film` · `topic/image-generation` · `topic/indexicality` · `topic/knowledge-representation` · `topic/law` · `topic/mediation` · `topic/medium` · `topic/museum` · `topic/ontology` · `topic/philosophy` · `topic/photography` · `topic/provenance` · `topic/realism` · `topic/representation` · `topic/technology`
+`topic/ai` · `topic/art` · `topic/auteur` · `topic/authenticity` · `topic/authorship` · `topic/criticism` · `topic/digital-media` · `topic/fieldwork` · `topic/film` · `topic/image-generation` · `topic/indexicality` · `topic/knowledge-representation` · `topic/law` · `topic/mediation` · `topic/medium` · `topic/museum` · `topic/ontology` · `topic/philosophy` · `topic/photography` · `topic/physics` · `topic/provenance` · `topic/realism` · `topic/representation` · `topic/technology` · `topic/video` · `topic/video-generation` · `topic/world-models`
 
 This list should expand as the writer's workbench expands beyond ontology. Prefer ordinary subject language over building a theoretically perfect taxonomy.
 
 ## Current form tags
 
-`form/article` · `form/book` · `form/chapter` · `form/essay` · `form/museum-record` · `form/paper` · `form/reference` · `form/report` · `form/standard` · `form/video`
+`form/article` · `form/book` · `form/chapter` · `form/essay` · `form/interview` · `form/museum-record` · `form/paper` · `form/reference` · `form/report` · `form/standard` · `form/video`
 
 ## Current role tags
 
@@ -33,6 +33,7 @@ This list should expand as the writer's workbench expands beyond ontology. Prefe
 - `role/counterargument` — selected because it materially challenges a working thesis or dominant account
 - `role/method` — reusable guidance for research or criticism
 - `role/case-study` — concrete work, event, person, or implementation used to test a claim
+- `role/benchmark` — a dataset and evaluation protocol used to test a recurring capability claim
 
 A source can have more than one role when the roles are genuinely useful for retrieval.
 

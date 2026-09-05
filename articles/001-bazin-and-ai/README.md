@@ -13,6 +13,7 @@ The writer's original `draft.md`, `brief.md`, and initial YouTube evidence are p
 3. Review candidate sources in `questions.md` and accept or reject them.
 4. Read SRC-001 and SRC-002 first; add page-level notes before strengthening any claim.
 5. Carry `field-notes.md` during the RISD Museum visit.
+6. Work through `../../deep-dives/006-video-generation-world-models/`, beginning with SRC-024 and the SRC-025 interview chapter at 37:24.
 
 ## Article files
 

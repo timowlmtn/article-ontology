@@ -69,6 +69,14 @@ Avoid reading everything before thinking. The purpose of the deck is selection a
 - **Reading result:** `[fill]`
 - **Writer decision:** `[fill]`
 
+**SRC-031 — André Bazin, [*What Is Cinema?*, volume 2](https://www.jstor.org/stable/10.1525/j.ctt5hjhjd)**
+
+- **Read:** “Bicycle Thief,” pp. 47–60, and “De Sica: Metteur en scène,” pp. 61–78.
+- **Use for:** The direct account of artistic construction, apparent happenstance, contingency, and the film's relation to truth.
+- **Quotation check:** The Hugh Gray translation on p. 68 reads “might just as well not have happened”; verify in the copy used.
+- **Reading result:** `[fill]`
+- **Writer decision:** `[fill]`
+
 ### Modern interpretive companions
 
 **SRC-005 — [*Studying Film with André Bazin*](https://www.jstor.org/stable/j.ctvrs8xh6)**
@@ -223,6 +231,44 @@ Catalog individual object records only after the visit reveals which objects mat
 - **Transcript status:** pending direct platform check and audio verification.
 - **Reading/viewing result:** `[timestamps, claims, named sources, challenges]`
 - **Writer decision:** `[accept / reject / retain as orientation only]`
+
+## Deck 8 — LeCun, generated video, and world models
+
+### Start with the claim itself
+
+**SRC-024 — LeCun and Manyika, [“Learning Abstractions”](https://www.amacad.org/publication/daedalus/learning-abstractions-conversation-yann-lecun)**
+
+- **Read:** printed pp. 47–51.
+- **Use for:** LeCun's distinction between predicting pixels and predicting in an abstract representation.
+- **Do not use for:** A settled consensus that generative video cannot learn useful world structure.
+- **Reading result:** `[fill]`
+- **Writer decision:** `[fill]`
+
+**SRC-025 — Big Technology Podcast, [“Why Can't AI Make Its Own Discoveries?”](https://www.youtube.com/watch?v=qvNCVYkHKfg)**
+
+- **Watch:** 29:37–43:33, especially the chapter at 37:24.
+- **Use for:** LeCun's direct generated-video examples and accessible explanation.
+- **Transcript:** a third-party searchable transcript exists; verify quotations against audio.
+- **Reading result:** `[timestamps and exact claims]`
+- **Writer decision:** `[fill]`
+
+### Understand the proposed alternative
+
+- **SRC-021 —** LeCun, [*A Path Towards Autonomous Machine Intelligence*](https://openreview.net/pdf?id=BZ5a1r-kVsf)
+- **SRC-022 —** Bardes et al., [V-JEPA](https://arxiv.org/abs/2404.08471)
+- **SRC-023 —** Assran et al., [V-JEPA 2](https://arxiv.org/abs/2506.09985)
+
+Record separately what is proposed, what is demonstrated, and what remains untested. V-JEPA is not a rendered-video system.
+
+### Read the competing view and current evidence
+
+- **SRC-026 —** OpenAI, [“Video generation models as world simulators”](https://openai.com/index/video-generation-models-as-world-simulators/): scaling thesis plus self-reported failures.
+- **SRC-027 —** Bansal et al., [VideoPhy-2](https://arxiv.org/abs/2503.06800): human-evaluated action and physics test.
+- **SRC-028 —** Meng et al., [PhyGenBench](https://openreview.net/forum?id=dIjMswSzgF): peer-reviewed physical-commonsense benchmark.
+- **SRC-029 —** Google DeepMind, [Veo 3.1](https://deepmind.google/models/veo/): later system capabilities and short-clip context.
+- **SRC-030 —** OpenAI, [“Sora 2 is here”](https://openai.com/index/sora-2/): later improvement claims and current product-status notice.
+
+**Comparison artifact:** `../../deep-dives/006-video-generation-world-models/README.md`
 
 ## Current minimum deck for article 001
 

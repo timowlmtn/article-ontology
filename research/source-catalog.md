@@ -477,3 +477,271 @@ These entries were discovered for `articles/001-Bazin-and-ai/`. They remain cand
 - **Decision reason:** already used as initial evidence; formal writer acceptance still required
 - **Used by articles / deep-dives:** 001-Bazin-and-ai
 - **Local copy / note:** `articles/001-Bazin-and-ai/video-transcript.md`
+
+## Candidate sources: video generation and world models
+
+These sources were discovered for `deep-dives/006-video-generation-world-models/` and `articles/001-bazin-and-ai/`. They remain candidates until the writer reviews them.
+
+### SRC-021 — *A Path Towards Autonomous Machine Intelligence*
+
+- **Author:** Yann LeCun
+- **Organization / publisher:** OpenReview
+- **Publication date:** version 0.9.2, 27 June 2022
+- **URL or local path:** https://openreview.net/pdf?id=BZ5a1r-kVsf
+- **Stable identifier:** OpenReview BZ5a1r-kVsf
+- **Source type:** primary research position paper
+- **Date accessed:** 2026-09-05
+- **Relevant topics / question IDs:** world models, JEPA, prediction, planning; AQ-013; VWM-001, VWM-002
+- **Description:** Proposes a configurable predictive world-model architecture, including joint-embedding predictive architectures and hierarchical planning.
+- **Why it matters:** Primary statement of LeCun's technical program and the argument behind prediction in representation space.
+- **Credibility notes:** Authoritative for LeCun's proposal, not proof that the proposed path is uniquely necessary or sufficient.
+- **Primary or secondary:** primary
+- **Tags:** `topic/ai` `topic/world-models` `topic/representation` `role/primary` `form/paper` `access/open`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** open PDF on OpenReview; record version when quoting
+- **Transcript / captions:** not applicable
+- **Verification notes:** distinguish architectural proposal from demonstrated results
+- **Status:** candidate
+- **Decision reason:** awaiting writer review
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; video-generation-world-models
+- **Local copy / note:** none
+
+### SRC-022 — “Revisiting Feature Prediction for Learning Visual Representations from Video”
+
+- **Author:** Adrien Bardes, Quentin Garrido, Jean Ponce, Xinlei Chen, Michael Rabbat, Yann LeCun, Mido Assran, and Nicolas Ballas
+- **Organization / publisher:** arXiv; Meta AI research record
+- **Publication date:** 12 April 2024
+- **URL or local path:** https://arxiv.org/abs/2404.08471
+- **Stable identifier:** arXiv:2404.08471
+- **Source type:** primary technical research
+- **Date accessed:** 2026-09-05
+- **Relevant topics / question IDs:** V-JEPA, video representation, feature prediction; AQ-013; VWM-003
+- **Description:** Introduces V-JEPA models trained by predicting masked spatiotemporal regions in learned feature space without pixel reconstruction.
+- **Why it matters:** Shows what LeCun's alternative does operationally and prevents describing V-JEPA as a movie generator.
+- **Credibility notes:** Evaluate the task suite and limitations; representation-learning scores do not prove general physical understanding.
+- **Primary or secondary:** primary
+- **Tags:** `topic/ai` `topic/video` `topic/world-models` `topic/representation` `role/primary` `form/paper` `access/open`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** open abstract and PDF; Meta research page also available
+- **Transcript / captions:** not applicable
+- **Verification notes:** freeze paper version and record exact evaluated checkpoints
+- **Status:** candidate
+- **Decision reason:** awaiting writer review
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; video-generation-world-models
+- **Local copy / note:** none
+
+### SRC-023 — “V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning”
+
+- **Author:** Mido Assran et al., including Yann LeCun
+- **Organization / publisher:** arXiv; Meta AI research
+- **Publication date:** 11 June 2025
+- **URL or local path:** https://arxiv.org/abs/2506.09985
+- **Stable identifier:** arXiv:2506.09985
+- **Source type:** primary technical research
+- **Date accessed:** 2026-09-05
+- **Relevant topics / question IDs:** V-JEPA 2, action anticipation, robot planning; AQ-013; VWM-003
+- **Description:** Reports a 1.2-billion-parameter video model pretrained on more than one million hours of video and an action-conditioned variant post-trained with under 62 hours of robot video.
+- **Why it matters:** Supplies current evidence for LeCun's program in video understanding, prediction, and embodied planning.
+- **Credibility notes:** Read evaluation design and limitations; robot planning demonstrations do not amount to broad causal mastery or cinematic generation.
+- **Primary or secondary:** primary
+- **Tags:** `topic/ai` `topic/video` `topic/world-models` `topic/physics` `role/primary` `form/paper` `access/open`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** open arXiv paper; model materials linked from Meta
+- **Transcript / captions:** not applicable
+- **Verification notes:** separate the action-free pretrained model from the action-conditioned post-trained model
+- **Status:** candidate
+- **Decision reason:** awaiting writer review
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; video-generation-world-models
+- **Local copy / note:** none
+
+### SRC-024 — “Learning Abstractions: A Conversation with Yann LeCun”
+
+- **Author:** Yann LeCun and James Manyika
+- **Organization / publisher:** *Dædalus*, American Academy of Arts & Sciences
+- **Publication date:** Winter/Spring 2026, volume 155, issues 1–2
+- **URL or local path:** https://www.amacad.org/publication/daedalus/learning-abstractions-conversation-yann-lecun
+- **Stable identifier:** journal article and publisher PDF
+- **Source type:** primary interview / research explanation
+- **Date accessed:** 2026-09-05
+- **Relevant topics / question IDs:** abstraction, future-frame prediction, causal world models, JEPA; AQ-013; VWM-001, VWM-002
+- **Description:** LeCun explains why he considers pixel-level future-video prediction intractable and argues for prediction in abstract representation space.
+- **Why it matters:** Clearest recent first-person statement of the specific claim relevant to generated moving images.
+- **Credibility notes:** Direct explanation in a scholarly venue; the architectural judgment remains LeCun's contested position.
+- **Primary or secondary:** primary for LeCun's view
+- **Tags:** `topic/ai` `topic/video-generation` `topic/world-models` `topic/representation` `role/primary` `form/interview` `access/open`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** open HTML and 16-page publisher PDF
+- **Transcript / captions:** publisher-edited written conversation
+- **Verification notes:** relevant passages are on PDF pp. 47–51; cite the article's printed pagination, not PDF viewer count alone
+- **Status:** candidate
+- **Decision reason:** awaiting writer review
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; video-generation-world-models
+- **Local copy / note:** none
+
+### SRC-025 — “Why Can't AI Make Its Own Discoveries? — With Yann LeCun”
+
+- **Author:** Alex Kantrowitz, interviewer; Yann LeCun, guest
+- **Organization / publisher:** Big Technology Podcast / Alex Kantrowitz on YouTube
+- **Publication date:** 19 March 2025
+- **URL or local path:** https://www.youtube.com/watch?v=qvNCVYkHKfg
+- **Stable identifier:** YouTube video ID qvNCVYkHKfg
+- **Source type:** interview video
+- **Date accessed:** 2026-09-05
+- **Relevant topics / question IDs:** generated-video physics, abstraction, world models; AQ-013; VWM-001, VWM-009
+- **Description:** Direct interview in which LeCun contrasts visually generated videos with physical understanding and develops the spilled-liquid example.
+- **Why it matters:** Likely source for the remembered claim connecting video-generation failures with world-model limitations.
+- **Credibility notes:** Direct speech is primary evidence for LeCun's view; examples are illustrative rather than benchmark results.
+- **Primary or secondary:** primary interview
+- **Tags:** `topic/ai` `topic/video-generation` `topic/world-models` `topic/physics` `role/primary` `form/video` `form/interview` `access/open`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** public YouTube video; third-party searchable transcript at https://podscripts.co/podcasts/big-technology-podcast/why-cant-ai-make-its-own-discoveries-with-yann-lecun
+- **Transcript / captions:** third-party transcript available; YouTube caption provenance not yet checked
+- **Verification notes:** relevant chapter begins about 37:24; verify every quotation against audio
+- **Status:** candidate
+- **Decision reason:** awaiting writer review and transcript verification
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; video-generation-world-models
+- **Local copy / note:** none
+
+### SRC-026 — “Video generation models as world simulators”
+
+- **Author:** OpenAI
+- **Organization / publisher:** OpenAI
+- **Publication date:** 15 February 2024
+- **URL or local path:** https://openai.com/index/video-generation-models-as-world-simulators/
+- **Stable identifier:** OpenAI Sora technical report
+- **Source type:** first-party technical report
+- **Date accessed:** 2026-09-05
+- **Relevant topics / question IDs:** Sora, video generation, world simulation, limitations; AQ-014; VWM-004, VWM-005
+- **Description:** Describes Sora's spacetime-patch approach, emergent simulation-like capabilities, and documented failures in physics, object-state change, object appearance, and longer samples.
+- **Why it matters:** States the clearest competing hypothesis to LeCun: that scaling generative video is a promising route toward world simulators.
+- **Credibility notes:** First-party and qualitative; it omits model and implementation details and should not substitute for independent evaluation.
+- **Primary or secondary:** primary industry report
+- **Tags:** `topic/ai` `topic/video-generation` `topic/world-models` `topic/physics` `role/primary` `role/counterargument` `form/report` `access/open`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** open live report; preserve access date
+- **Transcript / captions:** not applicable
+- **Verification notes:** quote its limitations alongside, not apart from, its scaling claim
+- **Status:** candidate
+- **Decision reason:** awaiting writer review
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; video-generation-world-models
+- **Local copy / note:** none
+
+### SRC-027 — “VideoPhy-2: A Challenging Action-Centric Physical Commonsense Evaluation in Video Generation”
+
+- **Author:** Hritik Bansal, Clark Peng, Yonatan Bitton, Roman Goldenberg, Aditya Grover, and Kai-Wei Chang
+- **Organization / publisher:** Google Research / arXiv
+- **Publication date:** 9 March 2025
+- **URL or local path:** https://arxiv.org/abs/2503.06800
+- **Stable identifier:** arXiv:2503.06800
+- **Source type:** primary benchmark research
+- **Date accessed:** 2026-09-05
+- **Relevant topics / question IDs:** physical commonsense, human evaluation, generated video; AQ-014; VWM-005
+- **Description:** Tests 200 real-world actions and evaluates semantic adherence, physical commonsense, and rule grounding with human judgments.
+- **Why it matters:** Reports that the strongest evaluated model achieved 22% joint performance on the hard subset and struggled with conservation of mass and momentum.
+- **Credibility notes:** Stronger than anecdotal demos but bounded by selected prompts, systems, date, and evaluation definitions.
+- **Primary or secondary:** primary
+- **Tags:** `topic/ai` `topic/video-generation` `topic/physics` `role/benchmark` `form/paper` `access/open`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** open paper, project data, and code
+- **Transcript / captions:** not applicable
+- **Verification notes:** read the hard-subset definition and model list before quoting the 22% result
+- **Status:** candidate
+- **Decision reason:** awaiting writer review
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; video-generation-world-models
+- **Local copy / note:** none
+
+### SRC-028 — “Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation”
+
+- **Author:** Fanqing Meng et al.
+- **Organization / publisher:** ICML 2025 / OpenReview
+- **Publication date:** 1 May 2025; modified 18 June 2025
+- **URL or local path:** https://openreview.net/forum?id=dIjMswSzgF
+- **Stable identifier:** OpenReview dIjMswSzgF
+- **Source type:** peer-reviewed benchmark research
+- **Date accessed:** 2026-09-05
+- **Relevant topics / question IDs:** PhyGenBench, physical commonsense, world simulators; AQ-014; VWM-004, VWM-005
+- **Description:** Introduces 160 prompts spanning 27 physical laws and an evaluation framework aligned with human feedback.
+- **Why it matters:** Finds that evaluated systems struggle with physical commonsense and that scaling or prompt engineering does not fully solve dynamic cases.
+- **Credibility notes:** Peer-reviewed benchmark; automatic evaluators and prompt selection still require method review.
+- **Primary or secondary:** primary
+- **Tags:** `topic/ai` `topic/video-generation` `topic/world-models` `topic/physics` `role/benchmark` `form/paper` `access/open`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** open OpenReview record, paper, data, and code
+- **Transcript / captions:** not applicable
+- **Verification notes:** distinguish evaluator agreement with humans from proof of physical understanding
+- **Status:** candidate
+- **Decision reason:** awaiting writer review
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; video-generation-world-models
+- **Local copy / note:** none
+
+### SRC-029 — Veo 3.1 model page and technical materials
+
+- **Author:** Google DeepMind
+- **Organization / publisher:** Google DeepMind
+- **Publication date:** current page; performance notes last updated October 2025
+- **URL or local path:** https://deepmind.google/models/veo/
+- **Stable identifier:** Veo 3.1 model page; linked model card and technical report
+- **Source type:** first-party model documentation
+- **Date accessed:** 2026-09-05
+- **Relevant topics / question IDs:** current video generation, audio, scene extension, physical realism; AQ-014; VWM-006
+- **Description:** Documents Veo 3.1's text/image-to-video, native audio, control features, and first-party comparison results.
+- **Why it matters:** Establishes a current capability baseline beyond the original Sora demonstrations; reported comparison clips are generally about 6–10 seconds.
+- **Credibility notes:** Vendor claims and internal comparisons; read the linked model card and technical report and pair with independent benchmarks.
+- **Primary or secondary:** primary industry documentation
+- **Tags:** `topic/ai` `topic/video-generation` `topic/physics` `role/case-study` `form/report` `access/changing`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** changing model page; freeze version and date if used
+- **Transcript / captions:** not applicable
+- **Verification notes:** do not turn relative head-to-head preferences into absolute physical accuracy
+- **Status:** candidate
+- **Decision reason:** awaiting writer review
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; video-generation-world-models
+- **Local copy / note:** none
+
+### SRC-030 — “Sora 2 is here”
+
+- **Author:** The Sora team
+- **Organization / publisher:** OpenAI
+- **Publication date:** 30 September 2025; product-status notice updated 26 April 2026
+- **URL or local path:** https://openai.com/index/sora-2/
+- **Stable identifier:** OpenAI Sora 2 launch report
+- **Source type:** first-party release report
+- **Date accessed:** 2026-09-05
+- **Relevant topics / question IDs:** current video generation, physics, multi-shot control, object persistence; AQ-014; VWM-004, VWM-006
+- **Description:** Claims improved physical accuracy, synchronized audio, multi-shot control, and world-state persistence while acknowledging continuing mistakes.
+- **Why it matters:** Documents progress after the 2024 Sora report and maintains OpenAI's opposing scaling-as-simulation thesis.
+- **Credibility notes:** First-party launch material with selected examples, not an independent or complete evaluation. The page states that the Sora product ceased availability on 26 April 2026.
+- **Primary or secondary:** primary industry report
+- **Tags:** `topic/ai` `topic/video-generation` `topic/world-models` `topic/physics` `role/case-study` `role/counterargument` `form/report` `access/changing`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** open page; retain the product-status notice and access date
+- **Transcript / captions:** not applicable
+- **Verification notes:** distinguish model research claims from present product availability
+- **Status:** candidate
+- **Decision reason:** awaiting writer review
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; video-generation-world-models
+- **Local copy / note:** none
+
+### SRC-031 — *What Is Cinema?*, volume 2
+
+- **Author:** André Bazin; essays selected and translated by Hugh Gray; forewords by François Truffaut and Dudley Andrew in the 2005 edition
+- **Organization / publisher:** University of California Press
+- **Publication date:** first English printing 1971; cited reissue 2005
+- **URL or local path:** https://www.jstor.org/stable/10.1525/j.ctt5hjhjd
+- **Stable identifier:** EISBN 9780520931268; print ISBN 9780520242289 for the 2005 edition
+- **Source type:** primary essay collection
+- **Date accessed:** 2026-09-05
+- **Relevant topics / question IDs:** *Bicycle Thieves*, Italian neorealism, De Sica, contingency, realism; AQ-003, AQ-006, AQ-015; VWM-007
+- **Description:** Contains “Bicycle Thief” (pp. 47–60) and “De Sica: Metteur en scène” (pp. 61–78).
+- **Why it matters:** Primary source for Bazin's account of the film's apparent naturalness, invisible aesthetic construction, contingency, and “ontological ambiguity of reality.”
+- **Credibility notes:** Use the University of California Press/JSTOR edition and verify wording against the edition actually cited; translation differences may matter.
+- **Primary or secondary:** primary
+- **Tags:** `topic/film` `topic/realism` `topic/criticism` `topic/auteur` `role/primary` `form/book` `access/library`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** JSTOR institutional access may be required; Google Books provides bibliographic and limited-preview confirmation
+- **Transcript / captions:** not applicable
+- **Verification notes:** The draft's sentence should read “Nothing happens in *Ladri di biciclette* that might just as well not have happened” in the Hugh Gray translation, p. 68; verify before publication.
+- **Status:** candidate
+- **Decision reason:** awaiting writer review
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; bazin-representation-realism; video-generation-world-models
+- **Local copy / note:** none
