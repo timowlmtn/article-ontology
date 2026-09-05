@@ -3,7 +3,7 @@
 As I thought about how knowledge and meaning relate to the real world, I 
 found myself drawn to Ontologies, and ultimately, I discovered Bazin.
 
-Bazin was a mid-nineteenth century film critic who published a series of
+Bazin was a mid-twentieth century film critic who published a series of
 magazines that ultimately became one of the foundational texts for modern
 film criticism.
 

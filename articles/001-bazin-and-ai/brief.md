@@ -1,6 +1,6 @@
 # Article brief
 
-- **Working title:** How a nineteenth century film critic allows us to understand AI
+- **Working title:** How a twentieth century film critic allows us to understand AI
 - **Central question:** The aesthics in philosophical language jumped when photography and film appeared.
 - **Why this matters:** We need a new aestheic to describe our aversion to AI 
 - **Intended reader:** Those who use AI extensively and want to retain humanity in their work
@@ -16,7 +16,7 @@
 
 The draft remains writer-controlled, but three historical claims need correction before publication:
 
-- André Bazin (1918–1958) was a twentieth-century critic, not a mid-nineteenth-century critic.
+- André Bazin (1918–1958) was a twentieth-century critic, not a mid-twentieth-century critic.
 - Bazin did not invent the concept or term “ontology”; he brought an ontological question to photography in his essay title and argument.
 - Bazin co-founded *Cahiers du cinéma* and wrote prolifically across journals and newspapers; characterize that history from sources rather than as “a series of magazines.”
 

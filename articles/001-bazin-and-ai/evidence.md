@@ -17,7 +17,7 @@ The writer's initial note is preserved here as a distinct record rather than sil
 
 ### FC-001 — Bazin's period
 
-- **Draft claim:** “mid-nineteenth century film critic.”
+- **Draft claim:** “mid-twentieth century film critic.”
 - **Correction to verify and make:** André Bazin lived 1918–1958 and was a twentieth-century French film critic.
 - **Candidate support:** SRC-002 / SRC-011 publisher and edition biographical material.
 - **Status:** correction required.
