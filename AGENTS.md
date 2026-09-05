@@ -46,6 +46,8 @@ Do not load the whole repository indiscriminately.
 - Use stable source IDs from `research/source-catalog.md` in notes and evidence.
 - Keep article-specific context inside its article directory.
 - Keep candidate sources in the project catalog or an article reading queue. Add only writer-accepted sources to an article's `sources.md`.
+- Treat `sources/` as a general writer's workbench, not a subject-specific archive. Maintain `sources/index.md` as the preservation inventory, `sources/tags.md` as the controlled discovery vocabulary, and `sources/reference-decks.md` as the index of curated reading sets.
+- Give each indexed source durable topic/form/role tags and direct links to active articles evaluating or using it. Reference decks are reusable views of sources; do not duplicate original source material between decks.
 - Do not add application code, databases, frameworks, or automation without a demonstrated need and writer approval.
 - Keep original source files unchanged; put interpretations in `notes/`.
 

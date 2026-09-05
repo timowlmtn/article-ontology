@@ -22,6 +22,8 @@ This is the human-readable index of discovered and accepted sources. Discovery d
 - **Why it matters:**
 - **Credibility notes:**
 - **Primary or secondary:**
+- **Tags:** use controlled tags from `sources/tags.md`
+- **Related articles:** direct Markdown links to article README files
 - **Access / preservation notes:** paywall, edition, archived copy, local copy
 - **Transcript / captions:** not applicable / official / creator-provided / automatic / unavailable / unknown
 - **Verification notes:** corrections, retractions, version, quotation checks
@@ -466,6 +468,8 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Why it matters:** Establishes the interpretive path that led the writer to Bazin and supplies claims to verify against primary texts.
 - **Credibility notes:** Useful orientation, not a substitute for Bazin or Peirce. Identify the lecturer and any course affiliation.
 - **Primary or secondary:** secondary
+- **Tags:** `topic/film` `topic/ontology` `topic/indexicality` `role/orientation` `form/video` `access/open`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazan-and-ai/README.md)
 - **Access / preservation notes:** public YouTube video; record any linked Part 2 separately
 - **Transcript / captions:** unknown; direct YouTube check required
 - **Verification notes:** build timestamped argument map and check quotations against audio; verify Peircean framing independently

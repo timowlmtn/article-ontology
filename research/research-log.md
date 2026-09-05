@@ -47,3 +47,16 @@ When AI materially shapes a search or synthesis, also record:
 - **Inputs provided:** article 001 questions, prior conceptual plan, official and scholarly reference metadata
 - **Output disposition:** reusable research plan; findings remain placeholders pending reading and fieldwork
 - **Human decision:** source acceptance, field interpretation, thesis, and article inclusion remain the writer's
+
+### 2026-09-05 — Created tagged source workbench and first reference deck
+
+- **Question(s):** project-wide source discovery and article 001 research
+- **Action:** Synchronized the catalog with a source-library inventory; created a controlled tag vocabulary, direct article links, a reusable reference-deck index, the first Bazin/AI deck, and a local source record for the originating YouTube video.
+- **Result:** Sources can now be found by topic, form, research role, access condition, article relationship, or curated deck without duplicating source material.
+- **Sources affected:** SRC-001 through SRC-020 indexed; SRC-020 received a local source record. All remain candidates.
+- **Decisions for writer:** Accept, reject, or defer individual sources; decide which lawful originals need local preservation; decide whether SRC-020 remains orientation or becomes cited evidence.
+- **Next step:** Work through the minimum article-001 deck in `sources/decks/001-bazin-ai.md`, starting with SRC-020 and SRC-001.
+- **AI role:** archivist / cartographer
+- **Inputs provided:** source catalog, article 001, deep-dive structure, writer's workbench requirements
+- **Output disposition:** retained as reusable source infrastructure; no source acceptance inferred
+- **Human decision:** source trust, article relevance, and final citation remain the writer's
