@@ -2,7 +2,7 @@
 
 ## Names, dates, and intellectual history
 
-- [ ] Spell André Bazin consistently; preserve `bazan` only in the directory slug if desired.
+- [ ] Spell André Bazin consistently; preserve `Bazin` only in the directory slug if desired.
 - [ ] Verify the original and translated publication dates of every Bazin essay.
 - [ ] Distinguish *politique des auteurs* from later “auteur theory.”
 - [ ] Attribute Astruc, Truffaut, Bazin, Sarris, and Kael's positions individually.

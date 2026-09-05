@@ -34,7 +34,7 @@ This is the human-readable index of discovered and accepted sources. Discovery d
 
 ## Candidate sources: Bazin, ontology, authorship, and criticism
 
-These entries were discovered for `articles/001-bazan-and-ai/`. They remain candidates until the writer reviews and accepts them.
+These entries were discovered for `articles/001-Bazin-and-ai/`. They remain candidates until the writer reviews and accepts them.
 
 ### SRC-001 — “The Ontology of the Photographic Image”
 
@@ -55,7 +55,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** distinguish 1945 French publication from later English translation/publication dates
 - **Status:** candidate
 - **Decision reason:** awaiting writer review
-- **Used by articles / deep-dives:** proposed for 001-bazan-and-ai
+- **Used by articles / deep-dives:** proposed for 001-Bazin-and-ai
 - **Local copy / note:** none
 
 ### SRC-002 — *What Is Cinema?*, volume 1
@@ -77,7 +77,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** compare quoted passages with the cited edition
 - **Status:** candidate
 - **Decision reason:** awaiting writer review
-- **Used by articles / deep-dives:** proposed for 001-bazan-and-ai
+- **Used by articles / deep-dives:** proposed for 001-Bazin-and-ai
 - **Local copy / note:** none
 
 ### SRC-003 — “The Birth of a New Avant-Garde: La Caméra-Stylo”
@@ -99,7 +99,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** translation and original title require edition-level checking
 - **Status:** candidate
 - **Decision reason:** awaiting writer review
-- **Used by articles / deep-dives:** proposed for 001-bazan-and-ai
+- **Used by articles / deep-dives:** proposed for 001-Bazin-and-ai
 - **Local copy / note:** none
 
 ### SRC-004 — “Notes on the Auteur Theory in 1962”
@@ -121,7 +121,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** confirm issue date and pagination in cited edition
 - **Status:** candidate
 - **Decision reason:** awaiting writer review
-- **Used by articles / deep-dives:** proposed for 001-bazan-and-ai
+- **Used by articles / deep-dives:** proposed for 001-Bazin-and-ai
 - **Local copy / note:** none
 
 ### SRC-005 — *Studying Film with André Bazin*
@@ -143,7 +143,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** cite individual chapter authors, not only the volume editors
 - **Status:** candidate
 - **Decision reason:** awaiting writer review
-- **Used by articles / deep-dives:** proposed for 001-bazan-and-ai
+- **Used by articles / deep-dives:** proposed for 001-Bazin-and-ai
 - **Local copy / note:** none
 
 ### SRC-006 — *André Bazin's Film Theory: Art, Science, Religion*
@@ -165,7 +165,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** record pages from the edition actually read
 - **Status:** candidate
 - **Decision reason:** awaiting writer review
-- **Used by articles / deep-dives:** proposed for 001-bazan-and-ai
+- **Used by articles / deep-dives:** proposed for 001-Bazin-and-ai
 - **Local copy / note:** none
 
 ### SRC-007 — “There Is No Such Thing as One Realism: Systematising André Bazin's Film Theory”
@@ -187,7 +187,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** do not treat the author's systematization as Bazin's explicit taxonomy
 - **Status:** candidate
 - **Decision reason:** awaiting writer review
-- **Used by articles / deep-dives:** proposed for 001-bazan-and-ai
+- **Used by articles / deep-dives:** proposed for 001-Bazin-and-ai
 - **Local copy / note:** none
 
 ### SRC-008 — “To Believe in an Image (Again)”
@@ -209,7 +209,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** abstract reviewed; full argument not yet extracted
 - **Status:** candidate
 - **Decision reason:** awaiting writer review and access
-- **Used by articles / deep-dives:** proposed for 001-bazan-and-ai
+- **Used by articles / deep-dives:** proposed for 001-Bazin-and-ai
 - **Local copy / note:** none
 
 ### SRC-009 — *OWL 2 Web Ontology Language Primer*, second edition
@@ -231,7 +231,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** distinguish OWL ontology from every looser engineering use of “ontology”
 - **Status:** candidate
 - **Decision reason:** awaiting writer review
-- **Used by articles / deep-dives:** proposed for 001-bazan-and-ai and project Q-001/Q-002
+- **Used by articles / deep-dives:** proposed for 001-Bazin-and-ai and project Q-001/Q-002
 - **Local copy / note:** none
 
 ### SRC-010 — “Metaphysics”
@@ -253,7 +253,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** cite the dated archive used for stable wording
 - **Status:** candidate
 - **Decision reason:** awaiting writer review
-- **Used by articles / deep-dives:** proposed for 001-bazan-and-ai and Q-001
+- **Used by articles / deep-dives:** proposed for 001-Bazin-and-ai and Q-001
 - **Local copy / note:** none
 
 ### SRC-011 — *André Bazin: Selected Writings 1943–1958*
@@ -275,7 +275,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** cite the edition actually read and note translation differences where material
 - **Status:** candidate
 - **Decision reason:** awaiting writer review and access
-- **Used by articles / deep-dives:** proposed for 001-bazan-and-ai; bazin-representation-realism; criticism-museum-encounter
+- **Used by articles / deep-dives:** proposed for 001-Bazin-and-ai; bazin-representation-realism; criticism-museum-encounter
 - **Local copy / note:** none
 
 ### SRC-012 — “What's the Point of an Index? or, Faking Photographs”
@@ -297,7 +297,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** obtain full text before extracting claims
 - **Status:** candidate
 - **Decision reason:** awaiting writer review and access
-- **Used by articles / deep-dives:** proposed for 001-bazan-and-ai; bazin-representation-realism; synthetic-image-provenance
+- **Used by articles / deep-dives:** proposed for 001-Bazin-and-ai; bazin-representation-realism; synthetic-image-provenance
 - **Local copy / note:** none
 
 ### SRC-013 — *The Virtual Life of Film*
@@ -319,7 +319,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** record pages from the edition read
 - **Status:** candidate
 - **Decision reason:** awaiting writer review and access
-- **Used by articles / deep-dives:** proposed for 001-bazan-and-ai; bazin-representation-realism; synthetic-image-provenance
+- **Used by articles / deep-dives:** proposed for 001-Bazin-and-ai; bazin-representation-realism; synthetic-image-provenance
 - **Local copy / note:** none
 
 ### SRC-014 — “Circles and Squares”
@@ -341,7 +341,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** read alongside SRC-004 and Sarris's reply rather than as a generic anti-auteur summary
 - **Status:** candidate
 - **Decision reason:** awaiting writer review
-- **Used by articles / deep-dives:** proposed for 001-bazan-and-ai; auteur-authorship-collaboration
+- **Used by articles / deep-dives:** proposed for 001-Bazin-and-ai; auteur-authorship-collaboration
 - **Local copy / note:** none
 
 ### SRC-015 — “High-Resolution Image Synthesis with Latent Diffusion Models”
@@ -363,7 +363,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** distinguish this architecture from every current image generator
 - **Status:** candidate
 - **Decision reason:** awaiting writer review
-- **Used by articles / deep-dives:** proposed for synthetic-image-provenance and 001-bazan-and-ai
+- **Used by articles / deep-dives:** proposed for synthetic-image-provenance and 001-Bazin-and-ai
 - **Local copy / note:** none
 
 ### SRC-016 — C2PA Specifications
@@ -429,7 +429,7 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Verification notes:** do not infer that a listed gallery guarantees a particular object is displayed
 - **Status:** candidate
 - **Decision reason:** awaiting writer use; day-of verification required
-- **Used by articles / deep-dives:** proposed for criticism-museum-encounter and 001-bazan-and-ai
+- **Used by articles / deep-dives:** proposed for criticism-museum-encounter and 001-Bazin-and-ai
 - **Local copy / note:** none
 
 ### SRC-019 — U.S. Copyright Office, *Copyright and Artificial Intelligence, Part 2: Copyrightability*
@@ -469,11 +469,11 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Credibility notes:** Useful orientation, not a substitute for Bazin or Peirce. Identify the lecturer and any course affiliation.
 - **Primary or secondary:** secondary
 - **Tags:** `topic/film` `topic/ontology` `topic/indexicality` `role/orientation` `form/video` `access/open`
-- **Related articles:** [001-bazin-and-ai](../articles/001-bazan-and-ai/README.md)
+- **Related articles:** [001-bazin-and-ai](../articles/001-Bazin-and-ai/README.md)
 - **Access / preservation notes:** public YouTube video; record any linked Part 2 separately
 - **Transcript / captions:** unknown; direct YouTube check required
 - **Verification notes:** build timestamped argument map and check quotations against audio; verify Peircean framing independently
 - **Status:** candidate
 - **Decision reason:** already used as initial evidence; formal writer acceptance still required
-- **Used by articles / deep-dives:** 001-bazan-and-ai
-- **Local copy / note:** `articles/001-bazan-and-ai/video-transcript.md`
+- **Used by articles / deep-dives:** 001-Bazin-and-ai
+- **Local copy / note:** `articles/001-Bazin-and-ai/video-transcript.md`

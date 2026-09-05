@@ -2,7 +2,7 @@
 
 This is the writer-facing route through the source library. It is designed to help find sources quickly, assemble a bounded reading corpus, and decide what earns a place in an article.
 
-- **Related article:** [001-bazin-and-ai](../../articles/001-bazan-and-ai/README.md)
+- **Related article:** [001-bazin-and-ai](../../articles/001-Bazin-and-ai/README.md)
 - **Deck tags:** `topic/ontology` `topic/film` `topic/ai` `topic/representation`
 - **Status:** assembling
 
@@ -219,7 +219,7 @@ Catalog individual object records only after the visit reveals which objects mat
 - **Role:** The writer's initial entry into Bazin and the icon/index/symbol framework.
 - **Upload date:** 2021-01-27.
 - **Local source record:** `../web/SRC-020-bazin-video/README.md`
-- **Transcript worksheet:** `../../articles/001-bazan-and-ai/video-transcript.md`
+- **Transcript worksheet:** `../../articles/001-Bazin-and-ai/video-transcript.md`
 - **Transcript status:** pending direct platform check and audio verification.
 - **Reading/viewing result:** `[timestamps, claims, named sources, challenges]`
 - **Writer decision:** `[accept / reject / retain as orientation only]`

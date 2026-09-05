@@ -8,9 +8,9 @@
 - **Thesis confidence:** low; actively researching
 - **Scope:** This is a 500 word article for an AI/Human newsletter.
 - **Out of scope:** How AI can write or make movies, use of AI to detect plagiarism or even the question, "what is plagiarism in the age of AI?"
-- **Writer's existing beliefs:** My belief is Bazan's Ontological ideas have a timeless that we can use to analyze artistic creations built in the age of AI
+- **Writer's existing beliefs:** My belief is Bazin's Ontological ideas have a timeless that we can use to analyze artistic creations built in the age of AI
 - **What could change my mind:** If Ontology is not relevant and that using AI to enhance art is simply AI slop and not worth regarding
-- **Current stage:** I am researching Ontologies, reading Bazan, planning to visit RISD museum to walk through art history to get a feeling for transitions
+- **Current stage:** I am researching Ontologies, reading Bazin, planning to visit RISD museum to walk through art history to get a feeling for transitions
 
 ## Research cautions
 
@@ -34,8 +34,8 @@ Also confirm whether “500 pages” in the note below means “500 words,” co
 Bazin's realism may not depend solely on analog causal trace. His attention to ambiguity, spectatorship, contingency, and the world's resistance to artistic control may remain relevant to digital and synthetic images.
 
 I was initially attracted to Ontologies because I saw them as a way to organize information about complex
-systems that I study in my work as a consultant.  When I discussed with my daughter, who studied Bazan
-in college, I was surprised to learn that the notion of Ontology was invented by Bazan, who was a film
+systems that I study in my work as a consultant.  When I discussed with my daughter, who studied Bazin
+in college, I was surprised to learn that the notion of Ontology was invented by Bazin, who was a film
 critic wrestleing with the notion of of who is an artist, when anyone can take a photo or make a movie?
 
 This got me to thinking about how leveraging AI is fundamental in most peoples jobs, and though I'm not

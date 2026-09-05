@@ -25,7 +25,7 @@ When AI materially shapes a search or synthesis, also record:
 ### 2026-09-05 — Refactored reusable article research workflow
 
 - **Question(s):** Q-001 and project-wide workflow
-- **Action:** Replaced an article-specific question template with reusable scaffolding; added field-note, synthesis, deep-dive, and source-note templates; cataloged candidate Bazin/ontology sources; created a provisional `001-bazan-and-ai` workspace.
+- **Action:** Replaced an article-specific question template with reusable scaffolding; added field-note, synthesis, deep-dive, and source-note templates; cataloged candidate Bazin/ontology sources; created a provisional `001-Bazin-and-ai` workspace.
 - **Result:** The repository now supports an explicit frame → evidence → synthesis → outline → draft → verification path, with named AI roles and transcript provenance.
 - **Sources affected:** SRC-001 through SRC-010 added as candidates; none accepted.
 - **Decisions for writer:** Restore the original draft and video URL; accept or reject candidate sources; confirm or revise the provisional thesis.

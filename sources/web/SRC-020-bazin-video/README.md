@@ -11,7 +11,7 @@
 - **Date cataloged:** 2026-09-05
 - **Catalog status:** candidate
 - **Tags:** `topic/film` `topic/ontology` `topic/indexicality` `role/orientation` `form/video` `access/open`
-- **Related articles:** [001-bazin-and-ai](../../../articles/001-bazan-and-ai/README.md)
+- **Related articles:** [001-bazin-and-ai](../../../articles/001-Bazin-and-ai/README.md)
 
 ## Local preservation
 
@@ -19,7 +19,7 @@
 - **Reason:** stable external source currently available; downloading has not been requested or evaluated for permission
 - **Captions/transcript:** pending direct YouTube check
 - **Transcript verification:** not started
-- **Article worksheet:** `articles/001-bazan-and-ai/video-transcript.md`
+- **Article worksheet:** `articles/001-Bazin-and-ai/video-transcript.md`
 
 ## Role in the research
 

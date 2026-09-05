@@ -6,7 +6,7 @@ A reference deck is a curated, ordered view of sources for a question, article, 
 
 | Deck | Purpose | Related articles | Status |
 |---|---|---|---|
-| [Ontology, Bazin, representation, and AI](decks/001-bazin-ai.md) | Establish ontology distinctions, Bazinian realism, auteur debate, synthetic-image production, provenance, and museum fieldwork | [001-bazin-and-ai](../articles/001-bazan-and-ai/README.md) | assembling |
+| [Ontology, Bazin, representation, and AI](decks/001-bazin-ai.md) | Establish ontology distinctions, Bazinian realism, auteur debate, synthetic-image production, provenance, and museum fieldwork | [001-bazin-and-ai](../articles/001-Bazin-and-ai/README.md) | assembling |
 
 ## Future deck template
 

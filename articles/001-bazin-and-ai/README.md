@@ -1,6 +1,6 @@
 # Article 001 — Bazin and AI
 
-The directory name preserves the originally requested `bazan` slug. The critic's name is André **Bazin**; use that spelling in prose and citations.
+The directory name preserves the originally requested `Bazin` slug. The critic's name is André **Bazin**; use that spelling in prose and citations.
 
 ## Current state
 
