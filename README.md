@@ -6,16 +6,19 @@ The workflow borrows a useful principle from NotebookLM/Gemini Notebook: synthes
 
 ## Research pipeline
 
-1. Define and sharpen a question.
-2. Plan the research, including competing views and counterarguments.
-3. Discover candidate sources for writer review.
-4. Accept or reject sources deliberately.
-5. Take attributed notes from accepted sources.
-6. Connect evidence to possible claims and record challenges and gaps.
-7. Synthesize only after the evidence is visible.
-8. Build an argumentative outline.
-9. Draft in the writer's voice.
-10. Fact-check claims, quotations, links, and source use.
+Every article moves through the same evidence gate. A stage can be revisited, but it should not be silently skipped.
+
+1. **Frame** — complete the article brief and state a tentative, falsifiable thesis.
+2. **Question** — turn uncertainties and likely objections into research questions.
+3. **Discover** — log possible sources as `candidate`; search results are leads only.
+4. **Accept** — the writer decides which sources enter the bounded article corpus.
+5. **Read** — take attributed literature notes with page, section, or timestamp locators.
+6. **Map evidence** — connect evidence to prospective claims, challenges, and gaps.
+7. **Synthesize** — state what the evidence permits, disputes, or changes.
+8. **Outline** — give every section an argumentative job and an evidence burden.
+9. **Draft** — write in the writer's voice; keep observation distinct from sourced fact.
+10. **Stress-test** — use AI as an adversarial reader and identify the strongest objection.
+11. **Verify** — fact-check quotations, claims, links, dates, provenance, and fairness.
 
 ## Structure
 
@@ -28,10 +31,32 @@ The workflow borrows a useful principle from NotebookLM/Gemini Notebook: synthes
 - `experiments/`: practical tests of ontology-centered research and AI architecture
 - `archive/`: retired material retained for provenance
 
+See `articles/README.md` for the article lifecycle and file contract. See `research/README.md` for source status and evidence provenance.
+
 ## Start a new article
 
-Copy `articles/000-template/` to a numbered, descriptive directory. Complete `brief.md` first, then refine `questions.md`. Discover sources as candidates in the project catalog; only add accepted, article-relevant sources to the article's `sources.md`. Build `evidence.md` before outlining or drafting.
+Copy `articles/000-template/` to a numbered, descriptive directory. Complete `brief.md` first, then refine `questions.md`. Discover sources as candidates in the project catalog; only add accepted, article-relevant sources to the article's `sources.md`. Build `evidence.md` and `synthesis.md` before outlining or drafting.
 
 ## Working with AI
 
-Use AI to expose choices, uncertainty, disagreement, unsupported claims, and promising research paths. Ask it to retrieve only the smallest relevant context. Do not delegate final beliefs, source acceptance, thesis, fairness judgments, or publication readiness to it. Generated prose belongs downstream of evidence and must never be cited as evidence.
+Use AI in named roles so its output remains inspectable:
+
+- **Scout:** find candidate sources, originals, transcripts, and useful search paths.
+- **Reader:** extract arguments and evidence with precise locators.
+- **Cartographer:** compare definitions and map relationships among claims.
+- **Adversary:** surface counterarguments, missing evidence, and category errors.
+- **Interviewer:** question the writer after observation or field work without supplying answers.
+- **Archivist:** maintain source IDs, statuses, provenance, and claim links.
+- **Editor:** test structure and clarity only after the evidence is visible.
+- **Fact-checker:** verify every externally checkable assertion against originals.
+
+Ask AI to retrieve the smallest relevant context. Do not delegate final beliefs, source acceptance, thesis, fairness judgments, voice, or publication readiness to it. AI summaries and generated prose are not evidence.
+
+## Useful prompts
+
+- “Act as a source scout for AQ-___. Return candidates, not conclusions. Prefer primary sources.”
+- “Read SRC-___. Separate quotation, source claim, interpretation, and open question.”
+- “Map CLM-___ to supporting and challenging evidence. Do not strengthen the claim.”
+- “Give the strongest informed objection to my thesis and specify what would answer it.”
+- “Interview me about these field notes. Ask one concrete question at a time.”
+- “Audit this draft against `evidence.md`; list unsupported or overstated claims.”

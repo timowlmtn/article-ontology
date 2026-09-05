@@ -9,9 +9,10 @@ For each task, read only what is needed, in this order:
 1. this file
 2. the current article or deep-dive brief
 3. its questions and evidence
-4. directly relevant source notes
-5. relevant ontology files
-6. broader project material only when necessary
+4. its accepted source list and directly relevant source notes
+5. its synthesis or outline when working downstream of evidence
+6. relevant ontology files
+7. broader project material only when necessary
 
 Do not load the whole repository indiscriminately.
 
@@ -26,6 +27,8 @@ Do not load the whole repository indiscriminately.
 - Record evidence separately from prose. Preserve challenges, qualifications, and disagreement.
 - Never invent citations, quotations, consensus, or confidence.
 - When evidence is missing or conflicting, say so and update the relevant questions, evidence, or gaps file.
+- For audiovisual sources, record caption/transcript provenance and timestamps. Verify quotation wording against audio.
+- Field observations may support writer reflection but do not verify label text, attribution, date, technique, or historical context.
 
 ## Writing rules
 
@@ -35,11 +38,17 @@ Do not load the whole repository indiscriminately.
 - When assisting with prose, protect the writer's voice and label suggested language as a suggestion.
 - Do not silently decide the final thesis, source trust, fairness of an argument, the writer's beliefs, or publication readiness.
 - Before calling research complete, verify factual claims, quotations, links, dates, and whether sources are being stretched.
+- Never replace unavailable writer prose with a reconstructed draft. Preserve a clear placeholder and request restoration.
 
 ## Project hygiene
 
 - Keep ontology entries lightweight and provisional unless the evidence warrants stronger language.
 - Use stable source IDs from `research/source-catalog.md` in notes and evidence.
 - Keep article-specific context inside its article directory.
+- Keep candidate sources in the project catalog or an article reading queue. Add only writer-accepted sources to an article's `sources.md`.
 - Do not add application code, databases, frameworks, or automation without a demonstrated need and writer approval.
 - Keep original source files unchanged; put interpretations in `notes/`.
+
+## AI roles
+
+Name the role when it materially shapes the work: scout, reader, cartographer, adversary, interviewer, archivist, editor, or fact-checker. AI output may propose searches, claims, connections, or prose, but it is never evidence and does not make writer decisions.

@@ -14,3 +14,9 @@ These statements are hypotheses or useful distinctions to test, not installed tr
 | Evidence | SUPPORTS_OR_CHALLENGES | Claim | Project workflow rule |
 | Citation | POINTS_TO | Source | Project workflow rule; citation alone does not establish support |
 | Article | ARGUES | Thesis | Project workflow rule; the writer controls the thesis |
+| PhilosophicalOntology | IS_NOT_IDENTICAL_TO | ComputationalOntology | Shared name requires an argued bridge, not assumed equivalence |
+| PhotographicImage | MAY_HAVE | CausalRelationToPhotographedEvent | Bazin-related hypothesis requiring precise formulation and source locators |
+| VisualResemblance | IS_NOT_IDENTICAL_TO | PhotographicProvenance | A synthetic image may look photographic without documenting a corresponding event |
+| Auteur | ATTRIBUTES | OrganizingAuthorship | Critical model; must be tested against collaboration, industry, and technology |
+| FilmCriticism | MAY_TEST | FilmTheory | Hypothesis: concrete criticism can qualify abstract claims about a medium |
+| SyntheticImage | REQUIRES | ProvenanceForAccountability | Normative hypothesis; provenance type and sufficiency remain open |

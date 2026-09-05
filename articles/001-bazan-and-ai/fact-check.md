@@ -1,30 +1,46 @@
-# Fact-check
+# Fact-check — Bazin and AI
 
-## Claim inventory
+## Names, dates, and intellectual history
 
-- [ ] Enumerate every factual or externally verifiable claim.
-- [ ] Link each material claim to evidence and an accepted source.
-- [ ] Flag unsupported, weak, disputed, or stale claims.
-- [ ] Confirm each source supports the claim actually made; do not stretch it.
+- [ ] Spell André Bazin consistently; preserve `bazan` only in the directory slug if desired.
+- [ ] Verify the original and translated publication dates of every Bazin essay.
+- [ ] Distinguish *politique des auteurs* from later “auteur theory.”
+- [ ] Attribute Astruc, Truffaut, Bazin, Sarris, and Kael's positions individually.
+- [ ] Do not imply Bazin addressed generative AI; mark contemporary applications as interpretations.
 
-## Sources and citations
+## Core concepts
 
-- [ ] Verify author, title, publisher, date, and source type.
-- [ ] Open every link and confirm it resolves to the intended source.
-- [ ] Prefer the original paper, specification, documentation, dataset, or first-party publication.
-- [ ] Mark secondary accounts and avoid presenting them as primary evidence.
-- [ ] Check whether any source has been corrected, retracted, or superseded.
+- [ ] Define each use of ontology before connecting them.
+- [ ] Distinguish photographic origin, indexicality, resemblance, realism, and truth.
+- [ ] Distinguish creative agency, causal contribution, intention, authorship, ownership, and responsibility.
+- [ ] Test every generalization about Bazin against more than “The Ontology of the Photographic Image.”
 
-## Quotations and numbers
+## Sources and quotations
 
-- [ ] Compare every quotation with the original, including wording and context.
-- [ ] Record a page, section, timestamp, or other precise locator.
-- [ ] Recalculate or independently verify important numbers and units.
-- [ ] Check dates and time-sensitive statements as of publication.
+- [ ] Writer has accepted every source listed in `sources.md`.
+- [ ] Every quotation has been checked against the cited edition and has a precise locator.
+- [ ] Every video quotation has been checked against audio and includes a timestamp.
+- [ ] Every museum attribution, date, material, and label claim has been checked against an authoritative record.
+- [ ] Technical claims about a generative model come from primary documentation or research.
 
-## Fairness and uncertainty
+## Argument and fairness
 
-- [ ] Preserve meaningful disagreement, counterevidence, and qualifications.
-- [ ] Distinguish source statements, synthesis, inference, and writer conclusions.
-- [ ] Identify unresolved disputes for the writer rather than silently resolving them.
-- [ ] Ask the writer to decide whether the argument is fair and publication-ready.
+- [ ] The strongest digital-Bazin counterargument receives a serious response.
+- [ ] The article does not treat all photography as truthful or all synthetic imagery as deceptive.
+- [ ] The article does not use “collaboration” to blur responsibility.
+- [ ] The selected AI work and model warrant the scope of every conclusion.
+- [ ] The museum walk advances the argument or is removed without loss.
+
+## AI provenance
+
+- [ ] No AI summary, transcript, or generated prose is cited as evidence.
+- [ ] AI inferences are traceable to sources and accepted or rejected by the writer.
+- [ ] Machine transcript uncertainties are visible.
+- [ ] The final prose still reflects the writer's voice and judgments.
+
+## Final writer decisions
+
+- [ ] I accept the thesis and its degree of certainty.
+- [ ] I believe the historical actors and counterarguments are represented fairly.
+- [ ] I accept responsibility for the critical judgments and conclusion.
+- [ ] I decide the article is ready to publish.
