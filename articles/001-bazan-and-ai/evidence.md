@@ -1,27 +1,247 @@
-# Article evidence
+# Prospective evidence — Bazin and AI
 
-Keep prospective claims separate from draft prose. Duplicate this block for each important claim.
+These are research hypotheses, not article conclusions. Most source IDs remain candidates and no quotations have yet been verified against full texts.
 
-## CLM-001 — Short label
+## Writer's initial evidence — source video
 
-**CLAIM**  
-What we may want to say.
+The original evidence file identified:
+
+- **Video:** SRC-020 — [“Andre Bazin's ‘Ontology of the Photographic Image’”](https://www.youtube.com/watch?v=VYJlq-MwWTY), Film & Media Studies.
+- **Writer's initial takeaway:** The video lays groundwork for an ontology of a real object through icon, symbol, and index: an icon resembles; a symbol has a conventional relation between signifier and signified; an index bears evidence of the thing, illustrated by a thumbprint and photograph.
+- **Attribution to verify:** The sign categories are associated with C. S. Peirce. Verify the lecturer's wording, Bazin's own terminology, and whether later critics—not Bazin—supply the explicitly Peircean framing.
+- **Status:** source identified; transcript availability and timestamps not yet verified.
+
+The writer's initial note is preserved here as a distinct record rather than silently blended into later AI-assisted research. Git history retains the pre-expansion file.
+
+## Urgent factual corrections from the current draft
+
+### FC-001 — Bazin's period
+
+- **Draft claim:** “mid-nineteenth century film critic.”
+- **Correction to verify and make:** André Bazin lived 1918–1958 and was a twentieth-century French film critic.
+- **Candidate support:** SRC-002 / SRC-011 publisher and edition biographical material.
+- **Status:** correction required.
+
+### FC-002 — Invention of ontology
+
+- **Draft/brief claim:** Bazin invented the notion of ontology.
+- **Correction to verify and make:** The word and philosophical inquiry predate Bazin by centuries. Bazin used ontology to frame an inquiry into the photographic image; he did not invent ontology.
+- **Candidate support:** SRC-010 on the seventeenth-century naming of ontology; SRC-001 on Bazin's actual essay.
+- **Status:** correction required; this distinction may improve the article's central bridge.
+
+### FC-003 — Bazin's publishing role
+
+- **Draft claim:** Bazin “published a series of magazines” that became a foundational film-criticism text.
+- **Correction to research:** Separate his co-founding of *Cahiers du cinéma*, his extensive criticism across periodicals, and the posthumous collection *What Is Cinema?*
+- **Candidate support:** SRC-002, SRC-005, SRC-011.
+- **Status:** needs precise sourced wording.
+
+## CLM-001 — “Ontology” performs different work in three domains
+
+**PROSPECTIVE CLAIM**  
+Philosophical ontology asks about being or what exists; Bazin asks what kind of object the photographic image is and how it relates to what was photographed; computational ontology explicitly represents entities and relations in a domain.
+
+**CLAIM TYPE**  
+definition / comparative interpretation
 
 **SUPPORT**  
-### SRC-Youtube (https://www.youtube.com/watch?v=VYJlq-MwWTY) "Andre Bazin's 'Ontology of the Photographic Image''"
-This evidence is a Youtube video that lays the groundwork of a ontology of a real object.
-
-Goes through several sources from Bazin's philosophical vision of film
-- Icon physical resemblance of thing
-- Symbol has no resemblance between the signifier and he signified
-- Index shows evidence for the existing of the thing (thumbprint vs photograph of thumb)
-  - Concept from CS Pierce.
+- SRC-001 — Bazin primary essay; precise passages required.
+- SRC-009 — W3C account of an ontology as precise descriptive statements and interrelated terms in a domain.
+- SRC-010 — philosophical overview; use a stable dated edition.
 
 **CHALLENGES**  
-- SRC-___ — contradictory, limiting, or qualifying evidence
+- Each domain contains internal disagreement; a three-part summary may over-stabilize contested terms.
+
+**WARRANT**  
+The sources use the same word to answer materially different questions. Comparison establishes difference, not historical influence or equivalence.
+
+**SCOPE / QUALIFICATION**  
+Present these as working distinctions for this article, not exhaustive definitions.
 
 **STATUS**  
-`needs-research` / `hypothesis` / `weak` / `disputed` / `supported`
+`needs-research`
 
-**NOTES**  
-Writer's interpretation, caveats, and decisions still required.
+## CLM-002 — Photographic appearance and photographic origin can separate
+
+**PROSPECTIVE CLAIM**  
+A synthetic image may resemble a photograph while lacking a corresponding photographed event; visual resemblance therefore cannot by itself establish photographic provenance.
+
+**CLAIM TYPE**  
+conceptual inference requiring technical support
+
+**SUPPORT**  
+- SRC-001 — Bazin's account of photographic production and objectivity; locator required.
+- Primary documentation for a selected generative model — not yet cataloged.
+
+**CHALLENGES**  
+- Digital photography already complicates simple physical-trace accounts.
+- SRC-008 may support a Bazinian realism not exhausted by analog indexicality.
+
+**WARRANT**  
+If Bazin's distinction depends materially on how an image comes into being, perceptual similarity alone cannot preserve that distinction.
+
+**SCOPE / QUALIFICATION**  
+Do not claim that generated images have no relation to reality: training data, prompts, interfaces, human choices, and cultural conventions all supply relations whose nature must be specified.
+
+**STATUS**  
+`hypothesis`
+
+## CLM-003 — Bazinian realism is more than lifelike resemblance
+
+**PROSPECTIVE CLAIM**  
+Bazin's realism involves the image's ontology, film form, spectator activity, and an aspiration toward truth or disclosure; it should not be reduced to surface naturalism.
+
+**CLAIM TYPE**  
+historical interpretation
+
+**SUPPORT**  
+- SRC-002 — primary essays on ontology, montage, and film language; locators required.
+- SRC-007 — secondary three-level systematization.
+- SRC-005 — contemporary contextualization and applied criticism.
+
+**CHALLENGES**  
+- SRC-007's taxonomy is the scholar's reconstruction, not necessarily Bazin's stated system.
+- Bazin wrote across contexts and may resist clean systematization.
+
+**WARRANT**  
+Claims across multiple essays and criticism may show that realism names several related commitments.
+
+**SCOPE / QUALIFICATION**  
+Attribute the taxonomy to its interpreter; show Bazin's own language separately.
+
+**STATUS**  
+`needs-research`
+
+## CLM-004 — Bazin's formal preferences distribute interpretive responsibility
+
+**PROSPECTIVE CLAIM**  
+Bazin values forms such as depth of field and the long take partly because they can preserve ambiguity and leave meaningful work to the spectator.
+
+**CLAIM TYPE**  
+historical interpretation / critical claim
+
+**SUPPORT**  
+- SRC-002 — “The Evolution of the Language of Cinema” and related essays; locators required.
+- Bazin's criticism of a selected film or scene — not yet selected.
+
+**CHALLENGES**  
+- Long takes and deep focus can manipulate attention; montage can preserve ambiguity.
+- Bazin's preferences should not be converted into universal formal rules.
+
+**WARRANT**  
+The relationship must be demonstrated in Bazin's reasoning and tested against a concrete scene.
+
+**SCOPE / QUALIFICATION**  
+Use “can” rather than “necessarily.”
+
+**STATUS**  
+`needs-research`
+
+## CLM-005 — Bazin complicates the cult of the auteur
+
+**PROSPECTIVE CLAIM**  
+Bazin treated the personal factor as valuable but resisted making an author's recurring identity a sufficient guarantee of a film's value.
+
+**CLAIM TYPE**  
+historical interpretation
+
+**SUPPORT**  
+- Bazin, “De la politique des auteurs” — authoritative edition and locators still needed.
+- SRC-003 and SRC-004 — intellectual sequence and later reformulation.
+
+**CHALLENGES**  
+- “Auteur theory” can name different practices in different national and critical contexts.
+- Bazin's editorial and personal relationship to the younger *Cahiers* critics complicates a simple opposition.
+
+**WARRANT**  
+Bazin's own intervention must define his position; later summaries cannot substitute for it.
+
+**SCOPE / QUALIFICATION**  
+Distinguish *politique* (policy or critical program) from Sarris's “theory.”
+
+**STATUS**  
+`needs-research`
+
+## CLM-006 — AI intensifies an already distributed authorship problem
+
+**PROSPECTIVE CLAIM**  
+Generative AI does not introduce collaboration into art from nothing; it makes the distribution of agency among creator, toolmaker, data, institution, interface, and editor unusually difficult to see and attribute.
+
+**CLAIM TYPE**  
+writer inference / historical comparison
+
+**SUPPORT**  
+- Auteur-history sources — pending acceptance and notes.
+- A documented AI-work case study — not yet selected.
+- Museum observations about workshops, reproduction, attribution, and institutional display — pending.
+
+**CHALLENGES**  
+- Treating training data or a model as an “author” may anthropomorphize infrastructure and obscure accountable human actors.
+- Ordinary collaboration and model-mediated generation may differ categorically.
+
+**WARRANT**  
+The claim depends on a careful mapping of kinds of contribution rather than a list of participants.
+
+**SCOPE / QUALIFICATION**  
+Separate creative agency, causal contribution, intention, legal ownership, and moral responsibility.
+
+**STATUS**  
+`hypothesis`
+
+## CLM-007 — Bazin may remain useful after analog indexicality
+
+**PROSPECTIVE CLAIM**  
+Even if synthetic images break a simple photographed-event relation, Bazin may remain useful as a critic of how images organize attention, preserve contingency, disclose mediation, and invite belief.
+
+**CLAIM TYPE**  
+critical inference / counterargument
+
+**SUPPORT**  
+- SRC-005 — new-media reassessment.
+- SRC-007 — broader dimensions of realism.
+- SRC-008 — ontology of sense and digital skepticism.
+
+**CHALLENGES**  
+- Preserving every attractive part of Bazin after removing photographic causation could make “Bazinian” too elastic to constrain analysis.
+
+**WARRANT**  
+The secondary literature must demonstrate continuity through concepts present in Bazin, not merely retrofit him to digital media.
+
+**SCOPE / QUALIFICATION**  
+This is the strongest counter-thesis and must receive genuine space in the article.
+
+**STATUS**  
+`needs-research`
+
+## CLM-008 — Provenance may replace appearance as the immediate ground of trust
+
+**PROSPECTIVE CLAIM**  
+When a photographic-looking image no longer guarantees a photographed event, judgments about documentary trust increasingly depend on disclosed provenance and context rather than appearance alone.
+
+**CLAIM TYPE**  
+normative and empirical claim
+
+**SUPPORT**  
+- No adequate evidence yet.
+
+**CHALLENGES**  
+- Photographs have always been staged, selected, captioned, manipulated, and institutionally framed.
+- Provenance systems themselves can be incomplete, misleading, or misunderstood.
+
+**WARRANT**  
+Requires evidence about real audience belief and provenance mechanisms, not only philosophical intuition.
+
+**SCOPE / QUALIFICATION**  
+May be narrowed to a normative proposal rather than a general empirical description.
+
+**STATUS**  
+`needs-research`
+
+## Evidence gaps
+
+- Exact YouTube source and transcript.
+- Authoritative English edition of Bazin's “De la politique des auteurs.”
+- Truffaut and Kael primary texts in reliable editions.
+- At least two examples of Bazin's applied criticism.
+- One specific generative model and one traceable work.
+- Evidence concerning provenance and audience trust.

@@ -1,22 +1,22 @@
 # Video source and transcript record
 
-The video referenced in the writer's original `evidence.md` was not present in the workspace on 2026-09-05. Add its identity below before relying on any summary of it.
+The video referenced in the writer's original evidence has now been identified. Transcript availability and wording still require direct platform/audio verification.
 
 ## Source identity
 
-- **Title:**
-- **Creator / speaker:**
-- **Channel / publisher:**
-- **Stable URL:**
-- **Video ID:**
-- **Upload date:**
+- **Title:** Andre Bazin's “Ontology of the Photographic Image”
+- **Creator / speaker:** `[identify lecturer]`
+- **Channel / publisher:** Film & Media Studies
+- **Stable URL:** https://www.youtube.com/watch?v=VYJlq-MwWTY
+- **Video ID:** VYJlq-MwWTY
+- **Upload date:** 2021-01-27
 - **Duration:**
-- **Date accessed:**
-- **Project source ID:** assign after cataloging
+- **Date accessed:** 2026-09-05
+- **Project source ID:** SRC-020
 
 ## Transcript availability
 
-- **YouTube “Show transcript” available:** yes / no / unknown
+- **YouTube “Show transcript” available:** unknown; check directly in YouTube
 - **Caption type:** creator-provided / automatic / translated / none / unknown
 - **Language:**
 - **Transcript obtained by:** platform / creator page / transcription tool / manual
@@ -31,6 +31,17 @@ Automatic captions are a navigation aid, not quotation-ready evidence. Check nam
 | Time | Speaker's claim | Evidence or source named in video | Annotation type | Verification status | Project connection |
 |---|---|---|---|---|---|
 | 00:00 |  |  | SOURCE CLAIM | unverified | AQ-___ / CLM-___ |
+
+## Initial claims to locate
+
+- icon as physical resemblance;
+- symbol as a non-resembling or conventional sign relation;
+- index as evidence of an existing thing;
+- thumbprint and photograph as examples;
+- attribution of icon/index/symbol to C. S. Peirce;
+- the point at which the lecture moves from Peircean semiotics to Bazin's own claims.
+
+Do not attribute the lecturer's Peircean vocabulary directly to Bazin until the source relationship is established.
 
 ## Claim verification
 
@@ -69,7 +80,7 @@ Automatic captions are a navigation aid, not quotation-ready evidence. Check nam
 
 ## AI-use instructions
 
-After the URL is supplied, ask AI to:
+With the URL now known, ask AI to:
 
 1. locate official or platform captions;
 2. preserve timestamps and uncertain passages;

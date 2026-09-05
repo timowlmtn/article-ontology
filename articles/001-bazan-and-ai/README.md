@@ -4,12 +4,12 @@ The directory name preserves the originally requested `bazan` slug. The critic's
 
 ## Current state
 
-The writer's previously mentioned `draft.md` and `evidence.md` were not present in the workspace during the 2026-09-05 refactor. The files here therefore preserve space for that material and provide a provisional research structure. Merge the writer's original thesis and prose before treating this workspace as authoritative.
+The writer's original `draft.md`, `brief.md`, and initial YouTube evidence are present in this main repository and remain authoritative as writer material. The surrounding research files are provisional scaffolding: they identify factual corrections, source candidates, evidence burdens, and reading paths without replacing the writer's thesis or prose.
 
 ## Next session
 
-1. Restore or paste the writer's original draft into `draft.md`.
-2. Add the YouTube video title and URL to `video-transcript.md`.
+1. Review the urgent factual corrections in `evidence.md`; revise the draft only when ready.
+2. Check the YouTube transcript status and begin its timestamped argument map in `video-transcript.md`.
 3. Review candidate sources in `questions.md` and accept or reject them.
 4. Read SRC-001 and SRC-002 first; add page-level notes before strengthening any claim.
 5. Carry `field-notes.md` during the RISD Museum visit.

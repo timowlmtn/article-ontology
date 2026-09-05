@@ -451,3 +451,25 @@ These entries were discovered for `articles/001-bazan-and-ai/`. They remain cand
 - **Decision reason:** awaiting writer review; potentially out of scope for the current article
 - **Used by articles / deep-dives:** proposed for auteur-authorship-collaboration as a boundary comparison
 - **Local copy / note:** none
+
+### SRC-020 — “Andre Bazin's ‘Ontology of the Photographic Image’”
+
+- **Author:** lecturer not yet identified
+- **Organization / publisher:** Film & Media Studies, YouTube channel
+- **Publication date:** 27 January 2021
+- **URL or local path:** https://www.youtube.com/watch?v=VYJlq-MwWTY
+- **Stable identifier:** YouTube video ID VYJlq-MwWTY
+- **Source type:** educational video / secondary explanation
+- **Date accessed:** 2026-09-05
+- **Relevant topics / question IDs:** Bazin, photographic ontology, icon/index/symbol, Peirce; article AQ-011
+- **Description:** Video overview of Bazin's “The Ontology of the Photographic Image”; the writer's initial source for the article.
+- **Why it matters:** Establishes the interpretive path that led the writer to Bazin and supplies claims to verify against primary texts.
+- **Credibility notes:** Useful orientation, not a substitute for Bazin or Peirce. Identify the lecturer and any course affiliation.
+- **Primary or secondary:** secondary
+- **Access / preservation notes:** public YouTube video; record any linked Part 2 separately
+- **Transcript / captions:** unknown; direct YouTube check required
+- **Verification notes:** build timestamped argument map and check quotations against audio; verify Peircean framing independently
+- **Status:** candidate
+- **Decision reason:** already used as initial evidence; formal writer acceptance still required
+- **Used by articles / deep-dives:** 001-bazan-and-ai
+- **Local copy / note:** `articles/001-bazan-and-ai/video-transcript.md`

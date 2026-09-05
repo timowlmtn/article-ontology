@@ -5,11 +5,33 @@
 - **Why this matters:** We need a new aestheic to describe our aversion to AI 
 - **Intended reader:** Those who use AI extensively and want to retain humanity in their work
 - **Tentative thesis:** That we need a richer Ontological framework to describe work that leverages AI
+- **Thesis confidence:** low; actively researching
 - **Scope:** This is a 500 word article for an AI/Human newsletter.
 - **Out of scope:** How AI can write or make movies, use of AI to detect plagiarism or even the question, "what is plagiarism in the age of AI?"
 - **Writer's existing beliefs:** My belief is Bazan's Ontological ideas have a timeless that we can use to analyze artistic creations built in the age of AI
 - **What could change my mind:** If Ontology is not relevant and that using AI to enhance art is simply AI slop and not worth regarding
 - **Current stage:** I am researching Ontologies, reading Bazan, planning to visit RISD museum to walk through art history to get a feeling for transitions
+
+## Research cautions
+
+The draft remains writer-controlled, but three historical claims need correction before publication:
+
+- André Bazin (1918–1958) was a twentieth-century critic, not a mid-nineteenth-century critic.
+- Bazin did not invent the concept or term “ontology”; he brought an ontological question to photography in his essay title and argument.
+- Bazin co-founded *Cahiers du cinéma* and wrote prolifically across journals and newspapers; characterize that history from sources rather than as “a series of magazines.”
+
+Also confirm whether “500 pages” in the note below means “500 words,” consistent with the stated scope.
+
+## Concepts to distinguish
+
+- philosophical ontology: inquiry into being or what exists;
+- Bazin's photographic ontology: what kind of object a photographic image is and how it relates to what was before the camera;
+- computational ontology: an explicit representation of entities and relations in a domain;
+- authorship, creative control, credit, responsibility, and ownership.
+
+## Strongest counterargument to research
+
+Bazin's realism may not depend solely on analog causal trace. His attention to ambiguity, spectatorship, contingency, and the world's resistance to artistic control may remain relevant to digital and synthetic images.
 
 I was initially attracted to Ontologies because I saw them as a way to organize information about complex
 systems that I study in my work as a consultant.  When I discussed with my daughter, who studied Bazan
