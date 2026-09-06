@@ -75,6 +75,39 @@ that film and each angle based on capturing the most dramatic angle,
 the most dramatic event, and the following dramatic outcome to a conclusion,
 could it be possible, other than in a trivial way that I can image in.
 
+Yann LecCun famously posited that real artificial intelligence would
+require it to be as smart as a cat, however; it will always require
+interaction with the physical world to get there.  Place that
+idea in the context of Ricci in The Bicicyle Thief, whose world is
+that of a man in desperate poverty who has had had his bicycle stolen
+from him, and he is searching for the thief.  The expression of the 
+story is the artistic genious of the film, and every scene the director
+captures forwards this sequence meaningfully.  The question of 
+AI-generated film posits that, "could an AI generate this in a way that
+we believed it."  Well, the AI has no concept of personal hunger, 
+shame, aspirations, it only has what it has been trained to do.  There is
+no connection to living a life, even as a cat or Ricci lives a life,
+so the only way it could create some artistic idea of living a life is
+to make a copy of a copy.  The film, after all, is a copy of life 
+filmed by a direct to capture emotions that they understand in a sequence
+that would be understood by others who live in real bodies.
+
+The connection between experience and a representation of experience is
+core to our understanding of a creative work.  We connect some vision
+of the real world with what we like, and it doesn't have to artistic.
+We enjoy our selfies and the random pictures we take with our cameras
+immensely.  There is a fundamental level of emotional connection that
+we look for when consuming some produced media, whether it is a photo,
+a film, a piece of writing.  With the AI generated art, it only captures reality
+by proxy - based on the training it is done.  Could we train an AI to 
+reproduce The Bicycle Thief?  We could, but would be far less the same
+as youtube version of the movie replaces the film version, that we could see
+in a real theatre, with real popcorn, velvet seats that are the classical experience
+of going to the cinema.
+
+Does the gap between experience and AI-generated works cause the 
+antipathy we have toward AI-generated content?  
+
 
 
 

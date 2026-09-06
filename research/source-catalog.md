@@ -745,3 +745,27 @@ These sources were discovered for `deep-dives/006-video-generation-world-models/
 - **Decision reason:** awaiting writer review
 - **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; bazin-representation-realism; video-generation-world-models
 - **Local copy / note:** none
+
+### SRC-032 — “Understanding how personality traits, experiences, and attitudes shape negative bias toward AI-generated artworks”
+
+- **Author:** Simone Grassini and Mika Koivisto
+- **Organization / publisher:** *Scientific Reports* (Springer Nature)
+- **Publication date:** 19 February 2024
+- **URL or local path:** https://pmc.ncbi.nlm.nih.gov/articles/PMC10876601/
+- **Stable identifier:** https://doi.org/10.1038/s41598-024-54294-4; PMID 38374175; PMCID PMC10876601
+- **Source type:** primary empirical research article
+- **Date accessed:** 2026-09-06
+- **Relevant topics / question IDs:** AI-generated art, source attribution, aesthetic evaluation, human/AI discrimination; DCLM-001
+- **Description:** Online study of 201 UK participants who viewed 40 artworks without being told their true source (20 Midjourney v4 images and 20 human-made works). For each, participants rated liking, positive emotion, perceived origin (human to AI), and prior familiarity on 0–100 scales.
+- **Why it matters:** Separates an artwork’s actual production source from a viewer’s belief about that source. In this stimulus set, participants could not reliably distinguish the origins; objectively AI-generated images received higher liking ratings, while images believed to be AI-generated were rated less favorably.
+- **Credibility notes:** Peer-reviewed, preregistered study with data available through OSF. The authors explicitly caution that their author-selected, stylistically limited image set is not a fair general comparison of human and AI art and that results should not be generalized universally.
+- **Primary or secondary:** primary
+- **Tags:** `topic/ai` `topic/art` `topic/authenticity` `topic/image-generation` `topic/representation` `role/primary` `role/case-study` `form/article` `access/open`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** Open-access HTML via PubMed Central; source record preserved locally, no article PDF retained.
+- **Transcript / captions:** not applicable
+- **Verification notes:** Method: 40 images and four 0–100 responses per image (article, Procedure). Reported means: AI-generated images 59.2 liking versus human-made images 47.3; source judgment was below chance for the AI images (article, Results). Use the original article for exact statistical language and limitations.
+- **Status:** candidate
+- **Decision reason:** discovered as a directly relevant empirical source; awaiting writer review.
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; synthetic-image-provenance
+- **Local copy / note:** [source record](../sources/academic/SRC-032-grassini-koivisto-ai-art-bias/README.md)

@@ -14,6 +14,7 @@ Copy `000-template/` for a new investigation. A deep dive may produce provisiona
 | `004-synthetic-image-provenance/` | How generated images arise and what can warrant trust | Make the AI comparison technically and conceptually exact | Synthetic media, documentary evidence, provenance systems |
 | `005-criticism-museum-encounter/` | How encounters with works test rather than decorate theory | Structure the RISD Museum exercise | Field essays, exhibition criticism, situated research |
 | `006-video-generation-world-models/` | Whether plausible moving images imply causal world understanding | Test the *Bicycle Thieves*/LeCun connection | AI cinema, simulation, robotics, games, synthetic media |
+| `007-ai-art-source-attribution/` | How actual and believed AI authorship affect aesthetic judgment | Interpret the Grassini–Koivisto experiment without overgeneralizing it | Authenticity, disclosure, creative attribution, AI-art criticism |
 
 ## A five-day working sequence
 

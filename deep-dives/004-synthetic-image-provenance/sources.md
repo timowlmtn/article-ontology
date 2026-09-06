@@ -7,3 +7,4 @@
 | SRC-012 | Index and truth-claim distinction | `[fill]` | `[fill]` | candidate |
 | SRC-013 | Analog/digital transition | `[fill]` | `[fill]` | candidate |
 | SRC-017 | Critical AI-art context | `[fill]` | `[fill]` | candidate |
+| SRC-032 | Empirical case study of source attribution and liking | Method, Procedure; Results | [source record](../../sources/academic/SRC-032-grassini-koivisto-ai-art-bias/README.md) | candidate |

@@ -46,6 +46,7 @@ For curated reading sequences and quick links, see `reference-decks.md`.
 | SRC-029 | Google DeepMind, Veo 3.1 | `topic/ai` `topic/video-generation` `topic/physics` `role/case-study` `form/report` `access/changing` | [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md) | candidate | external only | Freeze page/version; read model card and technical report |
 | SRC-030 | OpenAI, Sora 2 launch report | `topic/ai` `topic/video-generation` `topic/world-models` `role/case-study` `role/counterargument` `form/report` `access/changing` | [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md) | candidate | external only | Preserve 2026 product-status notice if cited |
 | SRC-031 | Bazin, *What Is Cinema?*, vol. 2 | `topic/film` `topic/realism` `topic/criticism` `topic/auteur` `role/primary` `form/book` `access/library` | [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md) | candidate | external only | Read “Bicycle Thief” and “De Sica: Metteur en scène”; verify p. 68 quote |
+| SRC-032 | Grassini & Koivisto, AI-art bias study | `topic/ai` `topic/art` `topic/authenticity` `topic/image-generation` `topic/representation` `role/primary` `role/case-study` `form/article` `access/open` | [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md) | candidate | source record | [Source record](academic/SRC-032-grassini-koivisto-ai-art-bias/README.md) |
 
 ## Intake queue
 
