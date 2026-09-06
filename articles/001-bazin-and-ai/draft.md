@@ -105,8 +105,27 @@ as youtube version of the movie replaces the film version, that we could see
 in a real theatre, with real popcorn, velvet seats that are the classical experience
 of going to the cinema.
 
-Does the gap between experience and AI-generated works cause the 
-antipathy we have toward AI-generated content?  
+Does the gap between experience and AI-generated works cause the antipathy we have 
+toward AI-generated content?  A recent paper by Grassini and Koivisto on
+biases in the perception of AI artwork indicate that the participants didn't always
+identify AI-generated content correctly, but their personality, and especially
+affinity technology influenced whether they preferred the human-made artwork to the
+AI-generated one.
+
+Back to the notion of "an AI will never know what a cat knows" has an interesting 
+corrollary in human experience, because our experience is now touched and influenced
+by AI.  The gap of perception of AI is narrowed, because AI *is* a part of our experience,
+even though we prefer what we believe to be human-made art to AI-generated art.
+The experience of consuming AI-generated work could attune us to acceptance of the work
+or, as in the case of a backlash against AI-slop, could also reinforce a preference
+to human-created art.
+
+In the area of film, where a single image is not the product, but that a series of
+scenes that capture reality, and the general plot that ties those scenes together, 
+it presents a wide space reality that the AI would need to invent based on what is trained.
+It further begs the question, if a human is doing the traiing and the building of
+the AI content, who, then is the auture?
+
 
 
 
