@@ -15,6 +15,7 @@ Copy `000-template/` for a new investigation. A deep dive may produce provisiona
 | `005-criticism-museum-encounter/` | How encounters with works test rather than decorate theory | Structure the RISD Museum exercise | Field essays, exhibition criticism, situated research |
 | `006-video-generation-world-models/` | Whether plausible moving images imply causal world understanding | Test the *Bicycle Thieves*/LeCun connection | AI cinema, simulation, robotics, games, synthetic media |
 | `007-ai-art-source-attribution/` | How actual and believed AI authorship affect aesthetic judgment | Interpret the Grassini–Koivisto experiment without overgeneralizing it | Authenticity, disclosure, creative attribution, AI-art criticism |
+| `008-benjamin-mechanical-reproduction/` | How technological reproducibility transforms aura, authorship, reception, and politics | Test Benjamin against the Bazin/AI auteur argument | Generative media, copies, platforms, mass reception, creative labor |
 
 ## A five-day working sequence
 

@@ -50,13 +50,13 @@ These entries were discovered for `articles/001-Bazin-and-ai/`. They remain cand
 - **Why it matters:** Primary evidence for what “ontology” means in Bazin rather than in later summaries.
 - **Credibility notes:** Use a legally accessible edition or library copy; verify translation and page numbers before quotation.
 - **Primary or secondary:** primary
-- **Access / preservation notes:** publisher abstract page; essay also appears in *What Is Cinema?*
+- **Access / preservation notes:** publisher abstract page; essay also appears in *What Is Cinema?*; local bibliographic source record preserved, no article PDF retained.
 - **Transcript / captions:** not applicable
 - **Verification notes:** distinguish 1945 French publication from later English translation/publication dates
 - **Status:** candidate
 - **Decision reason:** awaiting writer review
 - **Used by articles / deep-dives:** proposed for 001-Bazin-and-ai
-- **Local copy / note:** none
+- **Local copy / note:** [source record](../sources/primary/SRC-001-bazin-ontology-photographic-image/README.md)
 
 ### SRC-002 — *What Is Cinema?*, volume 1
 
@@ -769,3 +769,197 @@ These sources were discovered for `deep-dives/006-video-generation-world-models/
 - **Decision reason:** discovered as a directly relevant empirical source; awaiting writer review.
 - **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; synthetic-image-provenance
 - **Local copy / note:** [source record](../sources/academic/SRC-032-grassini-koivisto-ai-art-bias/README.md)
+
+### SRC-033 — “Camera obscura”
+
+- **Author:** Scott Billings (presenter; page by History of Science Museum)
+- **Organization / publisher:** History of Science Museum, University of Oxford
+- **Publication date:** not stated
+- **URL or local path:** https://www.hsm.ox.ac.uk/camera-obscura
+- **Stable identifier:** none recorded
+- **Source type:** institutional web / museum educational resource
+- **Date accessed:** 2026-09-06
+- **Relevant topics / question IDs:** camera obscura, optical projection, prehistory of photography; Q-001
+- **Description:** An accessible museum page and embedded video introducing the camera obscura. It explains the darkened chamber's projection of the external world, the role of lenses in producing sharper images, and the device's connection to artists and the development of photography.
+- **Why it matters:** Provides a readable, institutionally grounded source for a concise explanation of the camera obscura and an inviting external link for non-specialist readers.
+- **Credibility notes:** Published by the University of Oxford's History of Science Museum. It is an educational orientation source, not a specialist historical study; verify detailed historical or artist-specific claims elsewhere.
+- **Primary or secondary:** secondary orientation source
+- **Tags:** `topic/photography` `topic/technology` `topic/physics` `role/orientation` `form/museum-record` `access/open`
+- **Related articles:** [001-bazin-and-ai](../articles/001-Bazin-and-ai/README.md)
+- **Access / preservation notes:** open museum page; source record preserves identity and citation only, not the original page or video.
+- **Transcript / captions:** embedded video; transcript status unknown
+- **Verification notes:** Basic optical explanation verified against the page on 2026-09-06. No publication date is displayed; use an access date in formal citations.
+- **Status:** candidate
+- **Decision reason:** added as a potential accessible reference; awaiting writer review before use as project material.
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai
+- **Local copy / note:** [source record](../sources/web/SRC-033-history-of-science-museum-camera-obscura/README.md)
+
+### SRC-034 — “Getty’s Newly Acquired *Rembrandt Laughing* Now on View”
+
+- **Author:** J. Paul Getty Museum
+- **Organization / publisher:** J. Paul Getty Museum
+- **Publication date:** 29 October 2013
+- **URL or local path:** https://www.getty.edu/news/getty-newly-acquired-rembrandt-now-on-view/
+- **Stable identifier:** Getty Museum object number 2013.60
+- **Source type:** institutional museum object / acquisition record
+- **Date accessed:** 2026-09-06
+- **Relevant topics / question IDs:** Rembrandt, self-portraiture, *tronie*, representation, camera obscura question; Q-001
+- **Description:** Official Getty account of its acquisition of *Rembrandt Laughing* (about 1628), an oil-on-copper work measuring 22.2 × 17.1 cm. It presents the painting as an early self-portrait, describes its lively brushwork and soldier costume, and records the attribution research following the work's rediscovery.
+- **Why it matters:** Supplies reliable museum metadata and attribution context for a discussion of the painting without relying on Wikipedia or unsupported visual inference.
+- **Credibility notes:** First-party institutional record for the Getty's own object and attribution account. Its interpretive language should be attributed to Getty; use technical or art-historical scholarship for broader claims about Rembrandt's methods.
+- **Primary or secondary:** primary institutional object record; secondary interpretation
+- **Tags:** `topic/art` `topic/photography` `topic/representation` `topic/technology` `role/primary` `role/case-study` `form/museum-record` `access/open`
+- **Related articles:** [001-bazin-and-ai](../articles/001-Bazin-and-ai/README.md)
+- **Access / preservation notes:** open museum page; a local source record preserves metadata and scope, but not the original page or image.
+- **Transcript / captions:** not applicable
+- **Verification notes:** Museum object number, date, medium, and dimensions verified against Getty's published record on 2026-09-06. The source makes no claim that the work used a camera obscura or another optical aid.
+- **Status:** candidate
+- **Decision reason:** added as the primary object reference for the camera-obscura discussion; awaiting writer review.
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai
+- **Local copy / note:** [source record](../sources/web/SRC-034-getty-rembrandt-laughing/README.md)
+
+### SRC-035 — “The camera obscura”
+
+- **Author:** Swiss Camera Museum
+- **Organization / publisher:** Swiss Camera Museum, Vevey
+- **Publication date:** not stated
+- **URL or local path:** https://www.cameramuseum.ch/en/discover/permanent-exhibition/the-origins-of-photography/the-camera-obscura/
+- **Stable identifier:** none recorded
+- **Source type:** institutional museum educational resource
+- **Date accessed:** 2026-09-06
+- **Relevant topics / question IDs:** history of the camera obscura, optical projection, photography prehistory; Q-001
+- **Description:** Museum overview of the camera obscura's historical development. It presents the pinhole projection as a long-known phenomenon, attributes a fourth-century BCE observation to Aristotle, notes Leonardo da Vinci's fifteenth-century explanation, and identifies the addition of lenses and mirrors in the sixteenth and seventeenth centuries.
+- **Why it matters:** Supports the accurate corrective that the camera obscura was not invented by one person but developed from a natural phenomenon through successive observations and technical refinements.
+- **Credibility notes:** A photography museum's public educational resource. Useful for orientation; supplement it with specialist history-of-science sources for claims about earliest records across cultures or exact priority.
+- **Primary or secondary:** secondary orientation source
+- **Tags:** `topic/photography` `topic/technology` `topic/physics` `topic/history-of-science` `role/orientation` `form/museum-record` `access/open`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** open museum page; only a source record is preserved locally.
+- **Transcript / captions:** not applicable
+- **Verification notes:** The page has no displayed publication date, so formal citations should include an access date. It does not address the early Chinese *Mozi* account; do not infer that Aristotle was necessarily the first observer.
+- **Status:** candidate
+- **Decision reason:** added to answer the invention question accurately and provide a reader-friendly historical starting point; awaiting writer review.
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai
+- **Local copy / note:** [source record](../sources/web/SRC-035-camera-museum-camera-obscura-history/README.md)
+
+### SRC-036 — “The Ontology of the Photographic Image” in *Film Theory and Criticism*, 8th ed.
+
+- **Author:** André Bazin; translated by Hugh Gray
+- **Organization / publisher:** Oxford University Press; in an anthology edited by Leo Braudy and Marshall Cohen
+- **Publication date:** 2016
+- **URL or local path:** *Film Theory and Criticism: Introductory Readings*, 8th ed., pp. 126–29
+- **Stable identifier:** ISBN 978-0-19-937689-6
+- **Source type:** primary theoretical essay in anthology reprint
+- **Date accessed:** 2026-09-06
+- **Relevant topics / question IDs:** ontology, photography, realism; Q-001; AQ-001; AQ-002
+- **Description:** The 2016 eighth-edition reprint of Bazin's essay in the writer's reading anthology. It reproduces Hugh Gray's English translation on pages 126–29.
+- **Why it matters:** This is the exact reading and citation edition for the current work, so quotations and close paraphrases should use its page locators rather than those from the 1960 *Film Quarterly* printing.
+- **Credibility notes:** Established Oxford University Press anthology. The essay is a reprint of a translation, not Bazin's original French text; preserve translation and edition information.
+- **Primary or secondary:** primary
+- **Tags:** `topic/ontology` `topic/photography` `topic/realism` `role/primary` `form/chapter` `access/library`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** writer-owned/selected reading edition; no local chapter copy retained.
+- **Transcript / captions:** not applicable
+- **Verification notes:** Eighth-edition publication and ISBN verified through the editors' publisher-linked edition information. A course syllabus using the eighth edition identifies Bazin's two selections on pp. 126–34; the anthology contents list “The Ontology of the Photographic Image” as a four-page selection beginning p. 126. Verify a quotation against the physical or digital copy before publication.
+- **Status:** candidate
+- **Decision reason:** added because it is the edition the writer is using; awaiting writer review.
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai
+- **Local copy / note:** [source record](../sources/books/SRC-036-braudy-cohen-film-theory-criticism-8e/README.md)
+
+### SRC-037 — *Ladri di biciclette* / *Bicycle Thieves* (YouTube viewing link)
+
+- **Author:** Vittorio De Sica, director
+- **Organization / publisher:** original film production; current external viewing link hosted by YouTube
+- **Publication date:** 1948; YouTube upload date not verified
+- **URL or local path:** https://www.youtube.com/watch?v=vA7PpP2KF3k
+- **Stable identifier:** YouTube video ID `vA7PpP2KF3k`
+- **Source type:** primary audiovisual work; external web viewing link
+- **Date accessed:** 2026-09-06
+- **Relevant topics / question IDs:** Italian neorealism, realism, contingency, *Bicycle Thieves*, Bazin; AQ-003; AQ-006; AQ-015
+- **Description:** External YouTube route to De Sica's 1948 Italian film, listed with English subtitles. The film follows Antonio Ricci and his son Bruno through postwar Rome after Antonio's work bicycle is stolen.
+- **Why it matters:** Lets readers explore the film directly alongside Bazin's discussion, while keeping the work itself distinct from critical interpretation.
+- **Credibility notes:** The film is the primary object of analysis. The linked YouTube upload's channel, rights authorization, regional availability, and subtitle provenance have not been independently verified; treat it as a convenience link only, not as an authoritative edition.
+- **Primary or secondary:** primary audiovisual work
+- **Tags:** `topic/film` `topic/realism` `topic/criticism` `role/primary` `role/case-study` `form/video` `access/changing`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** copyrighted film; no local copy retained. Recheck YouTube availability and English-subtitle setting before publishing. Corinth Films lists an Italian-with-English-subtitles restored release as a distributor-linked alternative.
+- **Transcript / captions:** English subtitles listed; provenance and accuracy unknown
+- **Verification notes:** Verify all time-coded scene descriptions directly against the linked version. Do not quote English subtitles without checking wording against the selected edition.
+- **Status:** candidate
+- **Decision reason:** added as a reader-friendly viewing reference linked to the writer's use of Bazin; awaiting writer review.
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; bazin-representation-realism
+- **Local copy / note:** [source record](../sources/web/SRC-037-de-sica-bicycle-thieves-youtube/README.md)
+
+### SRC-038 — Generated visual reference: *Italian man after bicycle theft*
+
+- **Author:** OpenAI image generation system, prompted by the project writer
+- **Organization / publisher:** OpenAI
+- **Publication date:** 2026-09-07
+- **URL or local path:** `sources/web/SRC-038-generated-italian-bicycle-theft-scene/italian-man-bicycle-theft-1948.png`
+- **Stable identifier:** none
+- **Source type:** generated visual reference
+- **Date accessed:** 2026-09-07
+- **Relevant topics / question IDs:** image generation, provenance, film realism; Q-001
+- **Description:** Black-and-white synthetic image depicting an Italian working-class man in a 1948 Rome-like street scene after a bicycle theft.
+- **Why it matters:** A visual case study for how generated imagery can invoke neorealist conventions while requiring clear provenance.
+- **Credibility notes:** It does not document 1948 Rome or *Bicycle Thieves*. The recorded prompt establishes only its generation context.
+- **Primary or secondary:** generated artifact; not historical evidence
+- **Tags:** `topic/film` `topic/realism` `topic/image-generation` `topic/provenance` `role/case-study` `access/local`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** Original PNG retained locally with a prompt record in its source README.
+- **Transcript / captions:** not applicable
+- **Verification notes:** Period details are unverified generated conventions.
+- **Status:** candidate
+- **Decision reason:** awaiting writer review
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai
+- **Local copy / note:** [source record](../sources/web/SRC-038-generated-italian-bicycle-theft-scene/README.md)
+
+### SRC-039 — “The History of U-Locks – Classics to New Innovations”
+
+- **Author:** James Grear
+- **Organization / publisher:** BikeLockWiki
+- **Publication date:** last updated 2024-04-01
+- **URL or local path:** https://www.bikelockwiki.com/the-history-of-u-locks/
+- **Stable identifier:** none recorded
+- **Source type:** web article
+- **Date accessed:** 2026-09-07
+- **Relevant topics / question IDs:** bicycle-lock history, material culture, film realism; Q-001
+- **Description:** Popular-history account of U-locks/D-locks, covering early designs, materials, locking mechanisms, and recent anti-grinder products.
+- **Why it matters:** Orients research into the historical limits of U-locks as a visual and material reference for bicycle-theft scenes.
+- **Credibility notes:** Commercial editorial source with affiliate disclosures. Verify its historical claims against patents, company archives, or independent histories.
+- **Primary or secondary:** secondary popular reference
+- **Tags:** `topic/technology` `topic/film` `topic/realism` `role/orientation` `form/article` `access/changing`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** live web article; no local article copy retained because of copyright.
+- **Transcript / captions:** not applicable
+- **Verification notes:** The page states that U-lock origins date to 1972; it therefore does not support claims about locks in 1948 Italy.
+- **Status:** candidate
+- **Decision reason:** awaiting writer review
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai
+- **Local copy / note:** [source record](../sources/web/SRC-039-bikelockwiki-history-of-u-locks/README.md)
+
+### SRC-040 — “The Work of Art in the Age of Its Technological Reproducibility” (second version)
+
+- **Author:** Walter Benjamin
+- **Translator:** Edmund Jephcott and Harry Zohn
+- **Editors:** Howard Eiland and Michael W. Jennings
+- **Organization / publisher:** Belknap Press of Harvard University Press
+- **Publication date:** essay written 1935–1936; English collection published 2002
+- **URL or local path:** *Walter Benjamin: Selected Writings*, vol. 3, *1935–1938*, pp. 101–33
+- **Stable identifier:** ISBN 978-0-674-00896-0
+- **Source type:** primary theoretical essay in scholarly collection
+- **Date accessed:** 2026-09-07
+- **Relevant topics / question IDs:** technological reproducibility, aura, authenticity, cult value, exhibition value, film, apparatus, mass reception, politics, authorship; BEN-001 through BEN-009
+- **Description:** The expanded second version of Benjamin's essay on how technologically reproducible media transform the status, reception, production, and political function of art. It treats photography and film not only as ways to copy existing works but as media whose reproducibility changes the concept and social function of art.
+- **Why it matters:** Supplies a historically adjacent counterpoint to Bazin. Benjamin asks how reproducibility changes aura, authenticity, performance, spectatorship, and politics; these distinctions can test whether generative AI is best understood as reproduction, production, recombination, or a new relation among them.
+- **Credibility notes:** Primary text in an established critical edition. Benjamin produced multiple versions. The familiar English title “The Work of Art in the Age of Mechanical Reproduction,” translated by Harry Zohn in *Illuminations*, normally refers to a different, later version. Quotations and locators must remain edition-specific.
+- **Primary or secondary:** primary
+- **Tags:** `topic/art` `topic/film` `topic/photography` `topic/technology` `topic/reproduction` `topic/aura` `topic/authorship` `topic/ai` `role/primary` `form/essay` `access/library`
+- **Related articles:** [001-bazin-and-ai](../articles/001-bazin-and-ai/README.md)
+- **Access / preservation notes:** No copyrighted text stored locally. Use a lawful library or owned copy of the 2002 volume for close reading. A source record preserves bibliographic identity, version cautions, and reading guidance.
+- **Transcript / captions:** not applicable
+- **Verification notes:** Volume metadata and ISBN verified against bibliographic records; page range and second-version identity corroborated by scholarly references. Confirm translator attribution and every quotation against the physical or digital copy used.
+- **Status:** candidate
+- **Decision reason:** added at the writer's request as a proposed reference for article 001 and a reusable deep dive; awaiting writer acceptance before entering an accepted source list.
+- **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; 008-benjamin-mechanical-reproduction
+- **Local copy / note:** [source record](../sources/books/SRC-040-benjamin-work-of-art/README.md)

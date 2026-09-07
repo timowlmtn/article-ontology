@@ -19,6 +19,7 @@
 | AQ-013 | What does LeCun actually claim about generated video, physical understanding, and world models? | Prevents turning an architectural argument into a blanket judgment about AI movies. | SRC-021 through SRC-025 with paper sections and verified interview timestamps | researching | Complete `deep-dives/006-video-generation-world-models/`, beginning with SRC-024. |
 | AQ-014 | Do present video generators maintain objects, causes, and consequences well enough for extended cinematic continuity? | Tests the draft's *Bicycle Thieves* question against current systems rather than remembered demos. | SRC-026 through SRC-030 plus independent current benchmarks | researching | Separate short clips, edited workflows, scene extension, and autonomous long-form generation. |
 | AQ-015 | Is Bazin's realism usefully compared with a technical world model, or does the analogy reduce realism to physics? | Marks the central conceptual risk in the new line of argument. | Bazin's “Bicycle Thieves” essay, LeCun sources, and a counterexample using physically impossible cinema | open | Verify the Bazin passage, then write one paragraph for the analogy and one for its limit. |
+| AQ-016 | Does Benjamin's account of technological reproducibility clarify where the auteur resides in AI-assisted work? | Tests whether AI is merely another tool or an apparatus that redistributes production, authenticity, reception, and responsibility. | SRC-040 with page locators; deep dives 003 and 008; one process-rich AI work | open | Read SRC-040's second version and distinguish reproduction, reproducible production, and generation before applying it to AI. |
 
 ## Candidate reading path
 
@@ -76,6 +77,14 @@ Complete the findings there first, then copy only article-relevant evidence into
 Choose one documented image model and one finished work. Prefer primary system documentation, creator process records, and preserved prompts/iterations where available.
 
 **Deliverable:** provenance map from training sources and model development through prompt, generation, selection, editing, presentation, and audience interpretation.
+
+### Pass 6 — Test Benjamin against the auteur argument
+
+- SRC-040 — Benjamin, “The Work of Art in the Age of Its Technological Reproducibility: Second Version”
+- `deep-dives/008-benjamin-mechanical-reproduction/`
+- `deep-dives/003-auteur-authorship-collaboration/`
+
+**Deliverable:** a short comparison separating Benjamin's direct claims about aura, apparatus, reproduction, and reception from the writer's application to AI-assisted authorship.
 
 ## Exit criteria before outlining becomes authoritative
 
