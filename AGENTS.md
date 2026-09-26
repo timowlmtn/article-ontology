@@ -19,7 +19,7 @@ Do not load the whole repository indiscriminately.
 ## Research rules
 
 - Treat sources as first-class objects and preserve access to originals.
-- Add discovered material as `candidate`; never silently accept it for the writer.
+- Keep newly discovered material as `discovered` in `inbox/` until it has enough metadata for the catalog; then add it as `candidate`. Never silently accept it for the writer.
 - Prefer original research, standards, specifications, official documentation, and first-party publications.
 - Do not treat search snippets, AI answers, or generated summaries as authoritative sources.
 - Preserve attribution for facts, arguments, definitions, examples, and quotations.
