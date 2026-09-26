@@ -963,3 +963,113 @@ These sources were discovered for `deep-dives/006-video-generation-world-models/
 - **Decision reason:** added at the writer's request as a proposed reference for article 001 and a reusable deep dive; awaiting writer acceptance before entering an accepted source list.
 - **Used by articles / deep-dives:** proposed for 001-bazin-and-ai; 008-benjamin-mechanical-reproduction
 - **Local copy / note:** [source record](../sources/books/SRC-040-benjamin-work-of-art/README.md)
+
+### SRC-041 — *Introduction to Mathematical Logic: Set Theory, Computable Functions, Model Theory*
+
+- **Author:** Jerome Malitz
+- **Organization / publisher:** Springer-Verlag, Undergraduate Texts in Mathematics
+- **Publication date:** 1980; verify the writer's edition and printing
+- **URL or local path:** writer's copy; bibliographic record: https://books.google.com/books/about/Introduction_to_Mathematical_Logic.html?id=cXTgBwAAQBAJ
+- **Stable identifier:** ISBN 978-1-4613-9441-0 (reprint identifier; verify against the copy used)
+- **Source type:** textbook / pedagogical exposition
+- **Date accessed:** 2026-09-26
+- **Relevant topics / question IDs:** mathematical logic, set theory, computability, model theory; BMQ-001
+- **Description:** An introductory text organized around set theory, computable functions, and model theory. The writer studied with Malitz, making it both a personal entry point and a source for close, bounded conceptual reading.
+- **Why it matters:** Can establish the article's logical vocabulary before it turns to proof assistants or AI theorem proving.
+- **Credibility notes:** A published mathematical logic textbook. It is not automatically a source for contemporary AI systems, a universal philosophy of mathematical truth, or a definition of proof beauty.
+- **Primary or secondary:** primary pedagogical exposition
+- **Access / preservation notes:** writer-owned or library copy; no text retained locally.
+- **Transcript / captions:** not applicable
+- **Verification notes:** Record precise pages and the edition used for every definition or close paraphrase.
+- **Status:** candidate
+- **Decision reason:** proposed by the writer as the next article's anchor book; awaiting source review.
+- **Used by articles / deep-dives:** proposed for 002-beauty-of-mathematical-logic
+- **Local copy / note:** [source record](../sources/books/SRC-041-malitz-introduction-mathematical-logic/README.md)
+
+### SRC-042 — “A Formal Proof of the Kepler Conjecture”
+
+- **Author:** Thomas Hales and collaborators
+- **Organization / publisher:** *Forum of Mathematics, Pi*
+- **Publication date:** 2017
+- **URL or local path:** https://doi.org/10.1017/fmp.2017.1; open preprint https://arxiv.org/abs/1501.02155
+- **Stable identifier:** DOI 10.1017/fmp.2017.1; arXiv:1501.02155
+- **Source type:** primary research article / formal-verification project report
+- **Date accessed:** 2026-09-26
+- **Relevant topics / question IDs:** Kepler conjecture, sphere packing, formal proof, HOL Light, Isabelle; future formal-verification inquiry
+- **Description:** Published account of the completed Flyspeck project, which formally proved the Kepler conjecture in a combination of the HOL Light and Isabelle proof assistants.
+- **Why it matters:** Offers a concrete, complex proof case in which theorem, informal proof, computation, formal reconstruction, and checking can be investigated separately.
+- **Credibility notes:** Primary account by the formalization team. Its technical exposition will need a separately accepted explanatory source if the article requires general-reader detail.
+- **Primary or secondary:** primary
+- **Access / preservation notes:** open preprint and publisher record; no local copy retained.
+- **Transcript / captions:** not applicable
+- **Verification notes:** Do not call this an AI proof. Verify the theorem statement, systems, project timeline, and each intermediate result against the paper.
+- **Status:** candidate
+- **Decision reason:** retained as a candidate for future work on formal verification; it is not aligned with the current Malitz-centered article.
+- **Used by articles / deep-dives:** no current article
+- **Local copy / note:** [source record](../sources/academic/SRC-042-hales-formal-kepler-proof/README.md)
+
+### SRC-043 — *The Lean Language Reference*
+
+- **Author:** Lean FRO / Lean community
+- **Organization / publisher:** Lean project
+- **Publication date:** live documentation; version must be recorded when cited
+- **URL or local path:** https://lean-lang.org/doc/reference/latest/
+- **Stable identifier:** versioned official documentation
+- **Source type:** official technical documentation
+- **Date accessed:** 2026-09-26
+- **Relevant topics / question IDs:** dependent type theory, proof terms, kernel checking, tactics, trust boundary; BMQ-004, BMQ-005
+- **Description:** Official reference for Lean, an interactive theorem prover. It describes a small kernel that checks proof terms and higher-level tactics and automation that construct terms for that kernel to check.
+- **Why it matters:** Provides the key technical distinction between a learned or automated system proposing proof steps and Lean checking a resulting formal artifact.
+- **Credibility notes:** First-party technical documentation. Its scope is Lean-specific and version-sensitive; do not generalize it to all proof assistants without separate evidence.
+- **Primary or secondary:** primary technical documentation
+- **Access / preservation notes:** live web documentation; no local copy retained.
+- **Transcript / captions:** not applicable
+- **Verification notes:** Record version and section. Preserve its stated trust assumptions and the distinction between a formal theorem and intended informal meaning.
+- **Status:** candidate
+- **Decision reason:** required for technical accuracy in an AI-and-proof article; awaiting writer review.
+- **Used by articles / deep-dives:** proposed for 002-beauty-of-mathematical-logic
+- **Local copy / note:** [source record](../sources/web/SRC-043-lean-language-reference/README.md)
+
+### SRC-044 — “LeanDojo: Theorem Proving with Retrieval-Augmented Language Models”
+
+- **Author:** Kaiyu Yang and collaborators
+- **Organization / publisher:** arXiv / research authors; verify final venue before citation
+- **Publication date:** 2023
+- **URL or local path:** https://arxiv.org/abs/2306.15626
+- **Stable identifier:** arXiv:2306.15626
+- **Source type:** primary AI theorem-proving research paper
+- **Date accessed:** 2026-09-26
+- **Relevant topics / question IDs:** retrieval-augmented theorem proving, Lean, premise selection, proof search; BMQ-005
+- **Description:** Introduces a Lean environment, datasets, benchmark, and retrieval-augmented prover for formal theorem proving with language models.
+- **Why it matters:** Provides a reproducible example of an AI system interacting with a formal environment, making it possible to separate retrieval and search from formal checking.
+- **Credibility notes:** Primary research preprint. Benchmark results require their stated split, environment, and comparison baselines; do not treat them as a measure of general mathematical understanding.
+- **Primary or secondary:** primary
+- **Access / preservation notes:** open arXiv record; no local copy retained.
+- **Transcript / captions:** not applicable
+- **Verification notes:** Confirm the final publication status and extract methods, metrics, and limitations from the paper before prose use.
+- **Status:** candidate
+- **Decision reason:** selected as an open, inspectable AI formal-proof case; awaiting writer review.
+- **Used by articles / deep-dives:** proposed for 002-beauty-of-mathematical-logic
+- **Local copy / note:** [source record](../sources/academic/SRC-044-leandojo/README.md)
+
+### SRC-045 — “Olympiad-Level Formal Mathematical Reasoning with Reinforcement Learning”
+
+- **Author:** Google DeepMind and collaborators
+- **Organization / publisher:** Google Research
+- **Publication date:** verify the final paper's publication date and version
+- **URL or local path:** https://research.google/pubs/olympiad-level-formal-mathematical-reasoning-with-reinforcement-learning/
+- **Stable identifier:** official publication page; record DOI or archival identifier when verified
+- **Source type:** primary AI theorem-proving research paper
+- **Date accessed:** 2026-09-26
+- **Relevant topics / question IDs:** AlphaProof, reinforcement learning, Lean, formal mathematics; BMQ-005
+- **Description:** Describes AlphaProof, a reinforcement-learning system for finding formal proofs in Lean-based environments, evaluated on olympiad-level formal reasoning.
+- **Why it matters:** A current high-capability case for examining what AI-assisted formal proof search can and cannot establish about mathematical understanding.
+- **Credibility notes:** First-party research account. Treat capability statements as specific to its task, formalization pipeline, and evaluation rather than as proof of autonomous mathematical discovery.
+- **Primary or secondary:** primary
+- **Access / preservation notes:** live official publication page; no local copy retained.
+- **Transcript / captions:** not applicable
+- **Verification notes:** Confirm full author list, publication venue, formalization workflow, metrics, and declared limitations before citing.
+- **Status:** candidate
+- **Decision reason:** selected to test the article's contemporary AI comparison; awaiting writer review.
+- **Used by articles / deep-dives:** proposed for 002-beauty-of-mathematical-logic
+- **Local copy / note:** [source record](../sources/academic/SRC-045-alphaproof-formal-reasoning/README.md)

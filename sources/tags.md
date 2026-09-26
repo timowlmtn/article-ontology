@@ -17,13 +17,13 @@ Use hyphens inside multiword tags: `topic/knowledge-representation`.
 
 ## Current topic tags
 
-`topic/ai` · `topic/art` · `topic/auteur` · `topic/authenticity` · `topic/authorship` · `topic/criticism` · `topic/digital-media` · `topic/fieldwork` · `topic/film` · `topic/history-of-science` · `topic/image-generation` · `topic/indexicality` · `topic/knowledge-representation` · `topic/law` · `topic/mediation` · `topic/medium` · `topic/museum` · `topic/ontology` · `topic/philosophy` · `topic/photography` · `topic/physics` · `topic/provenance` · `topic/realism` · `topic/representation` · `topic/technology` · `topic/video` · `topic/video-generation` · `topic/world-models`
+`topic/ai` · `topic/art` · `topic/auteur` · `topic/authenticity` · `topic/authorship` · `topic/computability` · `topic/criticism` · `topic/digital-media` · `topic/fieldwork` · `topic/film` · `topic/formal-verification` · `topic/geometry` · `topic/history-of-science` · `topic/image-generation` · `topic/indexicality` · `topic/knowledge-representation` · `topic/law` · `topic/logic` · `topic/mathematics` · `topic/mediation` · `topic/medium` · `topic/museum` · `topic/ontology` · `topic/philosophy` · `topic/photography` · `topic/physics` · `topic/provenance` · `topic/realism` · `topic/representation` · `topic/retrieval` · `topic/technology` · `topic/theorem-proving` · `topic/video` · `topic/video-generation` · `topic/world-models`
 
 This list should expand as the writer's workbench expands beyond ontology. Prefer ordinary subject language over building a theoretically perfect taxonomy.
 
 ## Current form tags
 
-`form/article` · `form/book` · `form/chapter` · `form/essay` · `form/interview` · `form/museum-record` · `form/paper` · `form/reference` · `form/report` · `form/standard` · `form/video`
+`form/article` · `form/book` · `form/chapter` · `form/essay` · `form/interview` · `form/museum-record` · `form/paper` · `form/reference` · `form/report` · `form/standard` · `form/textbook` · `form/video`
 
 ## Current role tags
 
